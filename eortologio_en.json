@@ -1,0 +1,6254 @@
+[
+    {
+        "Name":  "VASILIKI",
+        "Alt":  "Vasiliki,Vivian,Vasilina,Vaso,Vicky,Viki",
+        "Day":  "1",
+        "Month":  "1"
+    },
+    {
+        "Name":  "VASILIS",
+        "Alt":  "Vasilis,Vassilis,Basil,Bill",
+        "Day":  "1",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EMMELEIA",
+        "Alt":  "Amy,Emeleia-mother of Saint Vasileios",
+        "Day":  "1",
+        "Month":  "1"
+    },
+    {
+        "Name":  "TELEMAHOS",
+        "Alt":  "Tilemahos,Telemachos,Telemachus",
+        "Day":  "1",
+        "Month":  "1"
+    },
+    {
+        "Name":  "SERAPHIM",
+        "Alt":  "Serafeim,Serafim",
+        "Day":  "2",
+        "Month":  "1"
+    },
+    {
+        "Name":  "SILVESTROS",
+        "Alt":  "Sylvestros,Sylvester",
+        "Day":  "2",
+        "Month":  "1"
+    },
+    {
+        "Name":  "SYLVESTER",
+        "Alt":  "Sylvester,Sylvestor",
+        "Day":  "2",
+        "Month":  "1"
+    },
+    {
+        "Name":  "GENOVEFA",
+        "Alt":  "Genovefa,Jenevieve,Genevieve,Genoveva",
+        "Day":  "3",
+        "Month":  "1"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "4",
+        "Month":  "1"
+    },
+    {
+        "Name":  "SYGLITIKI",
+        "Alt":  "Syncletica,Siglitiki",
+        "Day":  "5",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEONI",
+        "Alt":  "Theoni",
+        "Day":  "5",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEOPEMPTOS",
+        "Alt":  "Theopemptos",
+        "Day":  "5",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEOPOULA",
+        "Alt":  "Theopoula,Theopi",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEOFANIS",
+        "Alt":  "Theofania,Theofanis,Fanis,Theano",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "JORDAN",
+        "Alt":  "Iordanis",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "OURANIA",
+        "Alt":  "Ourania,Urania,Rania",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PERISTERA",
+        "Alt":  "Peristera",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "FAIDON",
+        "Alt":  "Faidon",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "FANI",
+        "Alt":  "Phani,Fenia,Fania,Fanoula",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PHOTINI",
+        "Alt":  "Fotine,Fotini,Foto,Fotoula,Fay,Fofo",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PHOTIS",
+        "Alt":  "Fotis,Fotios",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "FOTIKA",
+        "Alt":  "Fotika,Photika,Fotiko,Photiko,Fota,Photo",
+        "Day":  "6",
+        "Month":  "1"
+    },
+    {
+        "Name":  "GIANNA",
+        "Alt":  "Yanna,Gianna",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "GIANNIS",
+        "Alt":  "Yannis,Giannis,Yannos,Giannos,Yangos",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "JEANNETTE",
+        "Alt":  "Jeannette,Jean,Zannetos",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "JOHN",
+        "Alt":  "Ioanna,Ioannis,Ivana,Vana,Vanna",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PRODROMOS",
+        "Alt":  "Prodromos",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "CEDD",
+        "Alt":  "Cedd",
+        "Day":  "7",
+        "Month":  "1"
+    },
+    {
+        "Name":  "AGATHON",
+        "Alt":  "Agathon",
+        "Day":  "8",
+        "Month":  "1"
+    },
+    {
+        "Name":  "VASILISSA",
+        "Alt":  "Vasilissa,Vasilisa,Basilissa",
+        "Day":  "8",
+        "Month":  "1"
+    },
+    {
+        "Name":  "DOMINIKI",
+        "Alt":  "Dominiki",
+        "Day":  "8",
+        "Month":  "1"
+    },
+    {
+        "Name":  "KELSIOS",
+        "Alt":  "Kelsios",
+        "Day":  "8",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PARTHENA",
+        "Alt":  "Parthena",
+        "Day":  "8",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EFSTRATIOS",
+        "Alt":  "Evstratios,Stratos",
+        "Day":  "9",
+        "Month":  "1"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "10",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEODOSIOS",
+        "Alt":  "Theodosios,Theodosis",
+        "Day":  "11",
+        "Month":  "1"
+    },
+    {
+        "Name":  "MERTIOS",
+        "Alt":  "Mertios",
+        "Day":  "12",
+        "Month":  "1"
+    },
+    {
+        "Name":  "TATIANI",
+        "Alt":  "Tatiane,Tatiani",
+        "Day":  "12",
+        "Month":  "1"
+    },
+    {
+        "Name":  "ERMILOS",
+        "Alt":  "Ermillos,Ermili",
+        "Day":  "13",
+        "Month":  "1"
+    },
+    {
+        "Name":  "NINA",
+        "Alt":  "Nina,Ninas",
+        "Day":  "14",
+        "Month":  "1"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "15",
+        "Month":  "1"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "16",
+        "Month":  "1"
+    },
+    {
+        "Name":  "ANTHONY",
+        "Alt":  "Antonia,Antonios,Antonis,Andonis,Anthony,Tony,Tonia",
+        "Day":  "17",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEODOSIOS",
+        "Alt":  "Theodosios,Theodosis",
+        "Day":  "17",
+        "Month":  "1"
+    },
+    {
+        "Name":  "ATHANASIOS",
+        "Alt":  "Athanasios,Thanasis",
+        "Day":  "18",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THEODOULA",
+        "Alt":  "Theodoula,Theodouli",
+        "Day":  "18",
+        "Month":  "1"
+    },
+    {
+        "Name":  "CYRILLOS",
+        "Alt":  "Kyrillos",
+        "Day":  "18",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EFRASIA",
+        "Alt":  "Efrasia",
+        "Day":  "19",
+        "Month":  "1"
+    },
+    {
+        "Name":  "MAKARIOS",
+        "Alt":  "Makarios",
+        "Day":  "19",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EFTHIMIOS",
+        "Alt":  "Evthymios,Thymios,Efthimios,Thimios,Euthymius,Efthemeos",
+        "Day":  "20",
+        "Month":  "1"
+    },
+    {
+        "Name":  "THYRSI",
+        "Alt":  "Thyrsi",
+        "Day":  "20",
+        "Month":  "1"
+    },
+    {
+        "Name":  "FABIANOS",
+        "Alt":  "Favianos",
+        "Day":  "20",
+        "Month":  "1"
+    },
+    {
+        "Name":  "AGNES",
+        "Alt":  "Agne,Agni,Agnes",
+        "Day":  "21",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EVGENIOS",
+        "Alt":  "Efgenios,Eugenios,Evyenous,Evyeni,?ugine",
+        "Day":  "21",
+        "Month":  "1"
+    },
+    {
+        "Name":  "MAXIMOS",
+        "Alt":  "Maximos,Massimos",
+        "Day":  "21",
+        "Month":  "1"
+    },
+    {
+        "Name":  "NEOPHYTOS",
+        "Alt":  "Neofytos",
+        "Day":  "21",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PATROKLOS",
+        "Alt":  "Patroklos",
+        "Day":  "21",
+        "Month":  "1"
+    },
+    {
+        "Name":  "ANASTASIOS",
+        "Alt":  "Anastasios,Tassos,Tasos,Anastasia,Tasia,Sia,Tatia,Tasa,Tesa,Tasoula,Tasso",
+        "Day":  "22",
+        "Month":  "1"
+    },
+    {
+        "Name":  "TIMOTHY",
+        "Alt":  "Timotheos,Timothy",
+        "Day":  "22",
+        "Month":  "1"
+    },
+    {
+        "Name":  "AGATHANGELOS",
+        "Alt":  "Agathangelos,Agathagellos",
+        "Day":  "23",
+        "Month":  "1"
+    },
+    {
+        "Name":  "DIONISIS",
+        "Alt":  "Dionysius,Dionysis,Dionisos,Dionysios,Dionysos,Nionios,Denis,Dennis,Denise,Sissy",
+        "Day":  "23",
+        "Month":  "1"
+    },
+    {
+        "Name":  "ZOSIMAS",
+        "Alt":  "Zosimas,Zosimus",
+        "Day":  "24",
+        "Month":  "1"
+    },
+    {
+        "Name":  "XENI",
+        "Alt":  "Xenis,Xeni,Xenia",
+        "Day":  "24",
+        "Month":  "1"
+    },
+    {
+        "Name":  "FILON",
+        "Alt":  "Philon",
+        "Day":  "24",
+        "Month":  "1"
+    },
+    {
+        "Name":  "GREGORY",
+        "Alt":  "Grigoris,Grigorios,Gregory,Gregorios,Gregoris,Golis,Gregor",
+        "Day":  "25",
+        "Month":  "1"
+    },
+    {
+        "Name":  "MARGARET",
+        "Alt":  "Margarita",
+        "Day":  "25",
+        "Month":  "1"
+    },
+    {
+        "Name":  "XENOFON",
+        "Alt":  "Xenofontas,Xenia",
+        "Day":  "26",
+        "Month":  "1"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "27",
+        "Month":  "1"
+    },
+    {
+        "Name":  "PALLADIOS",
+        "Alt":  "Paladios",
+        "Day":  "28",
+        "Month":  "1"
+    },
+    {
+        "Name":  "HARIS",
+        "Alt":  "Haris",
+        "Day":  "28",
+        "Month":  "1"
+    },
+    {
+        "Name":  "VARSAMIA",
+        "Alt":  "Varsamo,Varsimaios,Valsamo,Valsamia,Valsamis",
+        "Day":  "29",
+        "Month":  "1"
+    },
+    {
+        "Name":  "AVRA",
+        "Alt":  "Avra",
+        "Day":  "30",
+        "Month":  "1"
+    },
+    {
+        "Name":  "MAVROS",
+        "Alt":  "Mavros,Mavreta",
+        "Day":  "30",
+        "Month":  "1"
+    },
+    {
+        "Name":  "TRION IERARCHON",
+        "Alt":  "Trion Ierarhon",
+        "Day":  "30",
+        "Month":  "1"
+    },
+    {
+        "Name":  "CHRYSI",
+        "Alt":  "Chrysi",
+        "Day":  "30",
+        "Month":  "1"
+    },
+    {
+        "Name":  "EVDOXIA",
+        "Alt":  "Evdoxia",
+        "Day":  "31",
+        "Month":  "1"
+    },
+    {
+        "Name":  "KYROS",
+        "Alt":  "Kyros",
+        "Day":  "31",
+        "Month":  "1"
+    },
+    {
+        "Name":  "BRIDGET",
+        "Alt":  "Brigit,Bridget,Brigid,Brigitta,Bridgit,Bride",
+        "Day":  "1",
+        "Month":  "2"
+    },
+    {
+        "Name":  "TRYFON",
+        "Alt":  "Tryfonas,Tryfonia",
+        "Day":  "1",
+        "Month":  "2"
+    },
+    {
+        "Name":  "FILIKITA",
+        "Alt":  "Filikitati,Filikita,Filikiti",
+        "Day":  "1",
+        "Month":  "2"
+    },
+    {
+        "Name":  "IPAPANTI",
+        "Alt":  "Ypapante,Ypapanti",
+        "Day":  "2",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ASIMAKIS",
+        "Alt":  "Asimakis",
+        "Day":  "3",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ASIMINA",
+        "Alt":  "Asimina",
+        "Day":  "3",
+        "Month":  "2"
+    },
+    {
+        "Name":  "STAMATIS",
+        "Alt":  "Stamatis,Stamos",
+        "Day":  "3",
+        "Month":  "2"
+    },
+    {
+        "Name":  "STAMATIA",
+        "Alt":  "Stamatia,Matoula,Mato,Stamela,Stamatina,Stamata,Matina,Mata",
+        "Day":  "3",
+        "Month":  "2"
+    },
+    {
+        "Name":  "SIMEON",
+        "Alt":  "Simeon",
+        "Day":  "3",
+        "Month":  "2"
+    },
+    {
+        "Name":  "IASIMOS",
+        "Alt":  "Iasimos",
+        "Day":  "4",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ISIDOROS",
+        "Alt":  "Isidoros",
+        "Day":  "4",
+        "Month":  "2"
+    },
+    {
+        "Name":  "AGATHI",
+        "Alt":  "Agathe,Agathi,Agatha",
+        "Day":  "5",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PHOTIS",
+        "Alt":  "Fotis,Fotios",
+        "Day":  "6",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PARTHENIS",
+        "Alt":  "Parthenios,Parthenis",
+        "Day":  "7",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ZAHARIAS",
+        "Alt":  "Zachariah,Zechariah,Zacaria,Zacarias,Zacary,Zacharia,Zacharias,Zacharie,Zachary,Zachery,Zackerias,Zack,Zakarias,Zeke,Zaharias,Zacharoula,Zacharenia,Zaki,Zakis",
+        "Day":  "8",
+        "Month":  "2"
+    },
+    {
+        "Name":  "MARKELOS",
+        "Alt":  "Markelos",
+        "Day":  "9",
+        "Month":  "2"
+    },
+    {
+        "Name":  "NIKIFOROS",
+        "Alt":  "Nikiforos",
+        "Day":  "9",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PAGRATIOS",
+        "Alt":  "Pagratios,Pagratia",
+        "Day":  "9",
+        "Month":  "2"
+    },
+    {
+        "Name":  "HARALAMBIA",
+        "Alt":  "Hara,Haralambia,Haralampia,Lambia,Lampia,Lambo,Lampo,Bambina,Bilio,Mpilio,Hambi,Hampi",
+        "Day":  "10",
+        "Month":  "2"
+    },
+    {
+        "Name":  "HARALAMBOS",
+        "Alt":  "Haralambos,Haralampos,Haralampous",
+        "Day":  "10",
+        "Month":  "2"
+    },
+    {
+        "Name":  "HARIKLIA",
+        "Alt":  "Hariklia,Haroula",
+        "Day":  "10",
+        "Month":  "2"
+    },
+    {
+        "Name":  "HARILAOS",
+        "Alt":  "Harilaos,Haris",
+        "Day":  "10",
+        "Month":  "2"
+    },
+    {
+        "Name":  "AVGI",
+        "Alt":  "Avgi",
+        "Day":  "11",
+        "Month":  "2"
+    },
+    {
+        "Name":  "VLASSIS",
+        "Alt":  "Vlassis",
+        "Day":  "11",
+        "Month":  "2"
+    },
+    {
+        "Name":  "THEODORA",
+        "Alt":  "Thodora,Theodora",
+        "Day":  "11",
+        "Month":  "2"
+    },
+    {
+        "Name":  "MELETIOS",
+        "Alt":  "Meletios,Meletis",
+        "Day":  "12",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PLOTINOS",
+        "Alt":  "Plotinos",
+        "Day":  "12",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PRISCILLA",
+        "Alt":  "Priscilla",
+        "Day":  "13",
+        "Month":  "2"
+    },
+    {
+        "Name":  "VALENTINI",
+        "Alt":  "Valentina,Valentine,Valentini,Valentinos,Dina,Dinos",
+        "Day":  "14",
+        "Month":  "2"
+    },
+    {
+        "Name":  "EFSEVIOS",
+        "Alt":  "Evsevios,Evsevia,Efsevios,Sevi",
+        "Day":  "15",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PAMFILLOS",
+        "Alt":  "Pamfylos",
+        "Day":  "16",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PAMFILLIE",
+        "Alt":  "Pamfili",
+        "Day":  "16",
+        "Month":  "2"
+    },
+    {
+        "Name":  "SELEFKOS",
+        "Alt":  "Selefkos",
+        "Day":  "16",
+        "Month":  "2"
+    },
+    {
+        "Name":  "CHLOE",
+        "Alt":  "Chloe",
+        "Day":  "16",
+        "Month":  "2"
+    },
+    {
+        "Name":  "THEODOROS",
+        "Alt":  "Thodoris,Theodore,Teo,Theodoros,Thodora,Theodora",
+        "Day":  "17",
+        "Month":  "2"
+    },
+    {
+        "Name":  "AGAPITOS",
+        "Alt":  "Agapitos",
+        "Day":  "18",
+        "Month":  "2"
+    },
+    {
+        "Name":  "LEON",
+        "Alt":  "Leon",
+        "Day":  "18",
+        "Month":  "2"
+    },
+    {
+        "Name":  "FILOTHEI",
+        "Alt":  "Philothei",
+        "Day":  "19",
+        "Month":  "2"
+    },
+    {
+        "Name":  "MEAT FARE THURSDAY",
+        "Alt":  "Meat Fare Thursday",
+        "Day":  "20",
+        "Month":  "2"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "21",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ANTHOUSA",
+        "Alt":  "Anthousa",
+        "Day":  "22",
+        "Month":  "2"
+    },
+    {
+        "Name":  "THALASSIOS",
+        "Alt":  "Thalassios,Thalasia,Thalasini",
+        "Day":  "22",
+        "Month":  "2"
+    },
+    {
+        "Name":  "SATURDAY OF SOULS",
+        "Alt":  "Saturday of Souls",
+        "Day":  "22",
+        "Month":  "2"
+    },
+    {
+        "Name":  "POLYKARPOS",
+        "Alt":  "Polykarpos",
+        "Day":  "23",
+        "Month":  "2"
+    },
+    {
+        "Name":  "POLYCHRONIS",
+        "Alt":  "Polychronios",
+        "Day":  "23",
+        "Month":  "2"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "24",
+        "Month":  "2"
+    },
+    {
+        "Name":  "RIGINOS",
+        "Alt":  "Riginos,Rigina",
+        "Day":  "25",
+        "Month":  "2"
+    },
+    {
+        "Name":  "TARASIOS",
+        "Alt":  "Tarasios,Tarasis,Tarasius",
+        "Day":  "25",
+        "Month":  "2"
+    },
+    {
+        "Name":  "TARSI",
+        "Alt":  "Tarso,Tarsi,Tarasia",
+        "Day":  "25",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ANATOLI",
+        "Alt":  "Anatoli",
+        "Day":  "26",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PORFIRIOS",
+        "Alt":  "Porfyros",
+        "Day":  "26",
+        "Month":  "2"
+    },
+    {
+        "Name":  "SEBASTIANOS",
+        "Alt":  "Sevastianos,Sebastian",
+        "Day":  "26",
+        "Month":  "2"
+    },
+    {
+        "Name":  "PHOTINI",
+        "Alt":  "Fotine,Fotini,Foto,Fotoula,Fay,Fofo",
+        "Day":  "26",
+        "Month":  "2"
+    },
+    {
+        "Name":  "ASKLIPIOS",
+        "Alt":  "Asklepios,Asklipios",
+        "Day":  "27",
+        "Month":  "2"
+    },
+    {
+        "Name":  "NISIOS",
+        "Alt":  "Nisios",
+        "Day":  "27",
+        "Month":  "2"
+    },
+    {
+        "Name":  "KYRA",
+        "Alt":  "Kyra,Kyratsa,Kyratso,Kyratsoula,Kyratsouda",
+        "Day":  "28",
+        "Month":  "2"
+    },
+    {
+        "Name":  "MARIANNA",
+        "Alt":  "Mariana",
+        "Day":  "28",
+        "Month":  "2"
+    },
+    {
+        "Name":  "CASIANOS",
+        "Alt":  "Cassianos,Kassianos,Casianos,Kasianos,Casos,Kasos",
+        "Day":  "29",
+        "Month":  "2"
+    },
+    {
+        "Name":  "EVDOKIA",
+        "Alt":  "Evdokia",
+        "Day":  "1",
+        "Month":  "3"
+    },
+    {
+        "Name":  "PARASKEVAS",
+        "Alt":  "Paraskevas,Paraskeuas",
+        "Day":  "1",
+        "Month":  "3"
+    },
+    {
+        "Name":  "PARASHOS",
+        "Alt":  "Parashos",
+        "Day":  "1",
+        "Month":  "3"
+    },
+    {
+        "Name":  "HARISIOS",
+        "Alt":  "Harisios",
+        "Day":  "1",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EFTHALIA",
+        "Alt":  "Evthalia,Euthalia,Eythaleia,Thaleia,Thalia",
+        "Day":  "2",
+        "Month":  "3"
+    },
+    {
+        "Name":  "CLEAN MONDAY",
+        "Alt":  "Clean Monday",
+        "Day":  "2",
+        "Month":  "3"
+    },
+    {
+        "Name":  "TROADIOS",
+        "Alt":  "Troadios",
+        "Day":  "2",
+        "Month":  "3"
+    },
+    {
+        "Name":  "KLEONIKOS",
+        "Alt":  "Kleonikos",
+        "Day":  "3",
+        "Month":  "3"
+    },
+    {
+        "Name":  "GERASIMOS",
+        "Alt":  "Gerasimos,Yerasimos",
+        "Day":  "4",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ARHELAOS",
+        "Alt":  "Arhelaos",
+        "Day":  "5",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EVLOGIOS",
+        "Alt":  "Evlogios",
+        "Day":  "5",
+        "Month":  "3"
+    },
+    {
+        "Name":  "KONON",
+        "Alt":  "Konon",
+        "Day":  "5",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ISYHIOS",
+        "Alt":  "Isyhios",
+        "Day":  "6",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EVGENIOS (2)",
+        "Alt":  "Efgenios,Eugenios,Evyenous,Evyeni,?ugine",
+        "Day":  "7",
+        "Month":  "3"
+    },
+    {
+        "Name":  "THEODOROS",
+        "Alt":  "Thodoris,Theodore,Teo,Theodoros,Thodora,Theodora",
+        "Day":  "7",
+        "Month":  "3"
+    },
+    {
+        "Name":  "AXIA",
+        "Alt":  "Axia,Axios",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "HERMES",
+        "Alt":  "Hermis",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "THEOFYLAKTOS",
+        "Alt":  "Theofylaktos",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SUNDAY OF ORTHODOXY",
+        "Alt":  "Sunday of Orthodoxy",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "LOXANTRA",
+        "Alt":  "Loxandra",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ORTHODOXIA",
+        "Alt":  "Orthodoxis,Doxis,Doxakis,Orthodoxia,Orthoula",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ROXANNE",
+        "Alt":  "Roxane,Roxani,Roxana,Roxy,Rox",
+        "Day":  "8",
+        "Month":  "3"
+    },
+    {
+        "Name":  "AETIOS",
+        "Alt":  "Aetios,Aetos,Eagle",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "VIVIANOS",
+        "Alt":  "Vivianos,Vivi,Vivian",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ELIANA",
+        "Alt":  "Eliana",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ILIANA",
+        "Alt":  "Iliana,Ilias",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "LYSIMAHOS",
+        "Alt":  "Lysimahos",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "XANTHOS",
+        "Alt":  "Xanthos,Xanhtoulis,Xanthoula,Xanthi",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SARANTOS",
+        "Alt":  "Sarantos,Sarantis",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SEVIRIANOS",
+        "Alt":  "Sevirianos,Severiano",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SMARAGDA",
+        "Alt":  "Smaragdenia,Smaro,Smaragda,Smara,Smaroula,Smaragdoula",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SMARAGDOS",
+        "Alt":  "Smaragdos,Smaragdis,Smaragdenios,Smaris",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "FILOKTIMON",
+        "Alt":  "Filoktimon,Philoktimon",
+        "Day":  "9",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "10",
+        "Month":  "3"
+    },
+    {
+        "Name":  "THALIS",
+        "Alt":  "Thalis",
+        "Day":  "11",
+        "Month":  "3"
+    },
+    {
+        "Name":  "THEODORA",
+        "Alt":  "Thodora,Theodora",
+        "Day":  "11",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SAVINA",
+        "Alt":  "Sabina,Sabena,Savina,Savena,Zabia,Zabina",
+        "Day":  "11",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SOFRONIOS",
+        "Alt":  "Sofron",
+        "Day":  "11",
+        "Month":  "3"
+    },
+    {
+        "Name":  "THEOFANIS",
+        "Alt":  "Theofania,Theofanis,Fanis",
+        "Day":  "12",
+        "Month":  "3"
+    },
+    {
+        "Name":  "FANI",
+        "Alt":  "Phani,Fenia,Fania,Fanoula",
+        "Day":  "12",
+        "Month":  "3"
+    },
+    {
+        "Name":  "LEANDROS",
+        "Alt":  "Leandros",
+        "Day":  "13",
+        "Month":  "3"
+    },
+    {
+        "Name":  "MARIOS",
+        "Alt":  "Marios",
+        "Day":  "13",
+        "Month":  "3"
+    },
+    {
+        "Name":  "BENEDICT",
+        "Alt":  "Benediktos,Benedikti,Benedict",
+        "Day":  "14",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EFRASIOS",
+        "Alt":  "Efrasios",
+        "Day":  "14",
+        "Month":  "3"
+    },
+    {
+        "Name":  "MATHILDE",
+        "Alt":  "Mathilde,Matilda",
+        "Day":  "14",
+        "Month":  "3"
+    },
+    {
+        "Name":  "AGAPIOS",
+        "Alt":  "Agapios",
+        "Day":  "15",
+        "Month":  "3"
+    },
+    {
+        "Name":  "GREGORY",
+        "Alt":  "Grigoris,Grigorios,Gregory,Gregorios,Gregoris,Golis,Gregor",
+        "Day":  "15",
+        "Month":  "3"
+    },
+    {
+        "Name":  "IOULIANOS",
+        "Alt":  "Ioulianos,Joulian",
+        "Day":  "16",
+        "Month":  "3"
+    },
+    {
+        "Name":  "CHRISTODOULOS",
+        "Alt":  "Christodoulos",
+        "Day":  "16",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ALEXIOS",
+        "Alt":  "Alexios,Alexis,Alex,Alekos,Alexia,Alexa",
+        "Day":  "17",
+        "Month":  "3"
+    },
+    {
+        "Name":  "GERTRUDE",
+        "Alt":  "Gertrude,Geertruide,Geltruda,Gerda,Gerte,Gertraud,Gertruda,Gertrudis,Gerty,Trude,Trudi,Trudie,Trudy",
+        "Day":  "17",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EDWARD",
+        "Alt":  "Edward,Eddy",
+        "Day":  "18",
+        "Month":  "3"
+    },
+    {
+        "Name":  "DAREIA",
+        "Alt":  "Dareea",
+        "Day":  "19",
+        "Month":  "3"
+    },
+    {
+        "Name":  "CHRYSANTHIS",
+        "Alt":  "Hrysanthi,Chrysanthi,Chrysanthis",
+        "Day":  "19",
+        "Month":  "3"
+    },
+    {
+        "Name":  "HRYSANTHOS",
+        "Alt":  "Crysanthos",
+        "Day":  "19",
+        "Month":  "3"
+    },
+    {
+        "Name":  "CLAUDIA",
+        "Alt":  "Claudia",
+        "Day":  "20",
+        "Month":  "3"
+    },
+    {
+        "Name":  "RODI",
+        "Alt":  "Rodi,Rodia",
+        "Day":  "20",
+        "Month":  "3"
+    },
+    {
+        "Name":  "RODIANOS",
+        "Alt":  "Rodianos",
+        "Day":  "20",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "21",
+        "Month":  "3"
+    },
+    {
+        "Name":  "DROSOS",
+        "Alt":  "Drosos",
+        "Day":  "22",
+        "Month":  "3"
+    },
+    {
+        "Name":  "DROSOULA",
+        "Alt":  "Drosoula,Drosis,Drosida",
+        "Day":  "22",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "23",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "24",
+        "Month":  "3"
+    },
+    {
+        "Name":  "ETHNEGERSIA",
+        "Alt":  "Ethnegersia",
+        "Day":  "25",
+        "Month":  "3"
+    },
+    {
+        "Name":  "EVAGGELOS",
+        "Alt":  "Evagelos,Evangelos,Aggelis,Angelis,Eva,Vangelis,Lili,Lilika",
+        "Day":  "25",
+        "Month":  "3"
+    },
+    {
+        "Name":  "POULIOS",
+        "Alt":  "Poulios",
+        "Day":  "26",
+        "Month":  "3"
+    },
+    {
+        "Name":  "SYLAS",
+        "Alt":  "Sylas",
+        "Day":  "26",
+        "Month":  "3"
+    },
+    {
+        "Name":  "LEEDA",
+        "Alt":  "Lida",
+        "Day":  "27",
+        "Month":  "3"
+    },
+    {
+        "Name":  "LIDIA",
+        "Alt":  "Lydia,Lidia,Lidie,Lyda,Lydie",
+        "Day":  "27",
+        "Month":  "3"
+    },
+    {
+        "Name":  "MAKEDON",
+        "Alt":  "Makedon",
+        "Day":  "27",
+        "Month":  "3"
+    },
+    {
+        "Name":  "MATRONA",
+        "Alt":  "Matrona of Thessaloniki - Thessalonica",
+        "Day":  "27",
+        "Month":  "3"
+    },
+    {
+        "Name":  "FILITAS",
+        "Alt":  "Filitas,Filiti",
+        "Day":  "27",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "28",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "29",
+        "Month":  "3"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "30",
+        "Month":  "3"
+    },
+    {
+        "Name":  "YPATIS",
+        "Alt":  "Ypatis,Hypatius",
+        "Day":  "31",
+        "Month":  "3"
+    },
+    {
+        "Name":  "April 4 Fools\u0027 Day",
+        "Alt":  "null",
+        "Day":  "1",
+        "Month":  "4"
+    },
+    {
+        "Name":  "TITOS",
+        "Alt":  "Titos",
+        "Day":  "2",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ILLYRIOS",
+        "Alt":  "Illyrios",
+        "Day":  "3",
+        "Month":  "4"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "4",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PANAGIOTIS",
+        "Alt":  "Panayotis,Panagiotis,Panos,Panousos,Panagis,Panagos,Giotis,Yiotis,Panikos,Takis,Panagiota,Panayota,Yiota,Giota,Panagioula,Panagoula,Pani,Tota,Toula,Pegie,Pegy",
+        "Day":  "5",
+        "Month":  "4"
+    },
+    {
+        "Name":  "EFTIHIOS",
+        "Alt":  "Eftychios,Eftyhia,Eftyhis",
+        "Day":  "6",
+        "Month":  "4"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "7",
+        "Month":  "4"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "8",
+        "Month":  "4"
+    },
+    {
+        "Name":  "EFPSYHIOS",
+        "Alt":  "Efpsyhios,Psyxoula",
+        "Day":  "9",
+        "Month":  "4"
+    },
+    {
+        "Name":  "JOSEF",
+        "Alt":  "Iosif,Sifis",
+        "Day":  "9",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ANAKSIMENIS",
+        "Alt":  "Anaksimenis,Menis",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DIMOKLIS",
+        "Alt":  "Dimoklis,Dimos,Dimoklia,Dimokleia",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DIMOSTHENES",
+        "Alt":  "Dimosthenis,Dimos,Demos",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DIONISIS",
+        "Alt":  "Dionysius,Dionysis,Dionisos,Dionysios,Dionysos,Nionios,Denis,Dennis,Denise,Sissy",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "EPAMINONDAS",
+        "Alt":  "Epamenondas",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ETEOKLIS",
+        "Alt":  "Eteoklis",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ZINON",
+        "Alt":  "Zenon,Zinon",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "HERCULES",
+        "Alt":  "Herakles",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "IFESTION",
+        "Alt":  "Ifestion",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THEMISTOKLIS",
+        "Alt":  "Themistokles,Themistoklis,Themistokleus",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THEOFRASTOS",
+        "Alt":  "Theofrastos",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THISEAS",
+        "Alt":  "Thiseas",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ISOCRATES",
+        "Alt":  "Isocratis",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MAXIMOS",
+        "Alt":  "Maximos,Massimos",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MILTIADIS",
+        "Alt":  "Miltos",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "XENOFON",
+        "Alt":  "Xenofontas,Xenia",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "HOMER",
+        "Alt":  "Homer",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PARMENION",
+        "Alt":  "Parmenion",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PELOPIDAS",
+        "Alt":  "Pelopidas",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PERICLES",
+        "Alt":  "Periklis",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PINDAROS",
+        "Alt":  "Pindaros",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "POLYVIOS",
+        "Alt":  "Polivios",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PROMITHEAS",
+        "Alt":  "Promitheas",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "SOFOCLES",
+        "Alt":  "Sofoclis",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "SOCRATES",
+        "Alt":  "Sokrates,Sokratis,Socrates",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "TIMOTHY",
+        "Alt":  "Timotheos,Timothy",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PHILOPIMIN",
+        "Alt":  "Philopimin,Philis,Filis,Filopimin",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "FOKION",
+        "Alt":  "Fokion,Fokos",
+        "Day":  "10",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ANTIPAS",
+        "Alt":  "Antipas,Antypas",
+        "Day":  "11",
+        "Month":  "4"
+    },
+    {
+        "Name":  "LAZAROS",
+        "Alt":  "Lazarus,Lazos",
+        "Day":  "11",
+        "Month":  "4"
+    },
+    {
+        "Name":  "AKAKIOS",
+        "Alt":  "AKAKIOS",
+        "Day":  "12",
+        "Month":  "4"
+    },
+    {
+        "Name":  "VAIOS",
+        "Alt":  "Vaia,Vaios,Juli",
+        "Day":  "12",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DAPHNE",
+        "Alt":  "Daphne,Dafni",
+        "Day":  "12",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DAFNIS",
+        "Alt":  "Dafnis",
+        "Day":  "12",
+        "Month":  "4"
+    },
+    {
+        "Name":  "CATHOLIC EASTER",
+        "Alt":  "Catholic Easter",
+        "Day":  "12",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GERONTIOS",
+        "Alt":  "Gerontios",
+        "Day":  "13",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALI DEYTERA",
+        "Alt":  "Megali Deytera",
+        "Day":  "13",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PAGALOS",
+        "Alt":  "Pagalos",
+        "Day":  "13",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ARISTARHOS",
+        "Alt":  "Aristarhos",
+        "Day":  "14",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THOMAIS",
+        "Alt":  "Thomais",
+        "Day":  "14",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALI TRITI",
+        "Alt":  "Megali Triti",
+        "Day":  "14",
+        "Month":  "4"
+    },
+    {
+        "Name":  "LEONIDAS",
+        "Alt":  "Leonidas,Leo,Leonie",
+        "Day":  "15",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALI TETARTI",
+        "Alt":  "Megali Tetarti",
+        "Day":  "15",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ALITHEA",
+        "Alt":  "Alithea,Alithia,Alitheia",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GALINI",
+        "Alt":  "Galene",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GALINOS",
+        "Alt":  "Galinos",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "CALIS",
+        "Alt":  "Kallis,Kallida,Kallia,Kalli,Kalis,Kalida,Kalia,Kali,Callis,Callida,Callia,Calis,Calida,Calia,Caly",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALI PEMPTI",
+        "Alt":  "Megali Pempti",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "NIKI",
+        "Alt":  "Neekee,Nikee",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "HIONIA",
+        "Alt":  "Hionia",
+        "Day":  "16",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALI PARASKEVI",
+        "Alt":  "Megali Paraskeyi",
+        "Day":  "17",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MEGALO SABBATO",
+        "Alt":  "Megalo Sabbato",
+        "Day":  "18",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ANASTASIOS",
+        "Alt":  "Anastasios,Tassos,Tasos,Anastasia,Tasia,Sia,Tatia,Tasa,Tesa,Tasoula,Tasso",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ANESTIS",
+        "Alt":  "Anestis",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "LABROS",
+        "Alt":  "Lambros,Labrini",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PASCHALIS",
+        "Alt":  "Paschalis",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PASCHALINA",
+        "Alt":  "Paschalina",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "STASINOS",
+        "Alt":  "Stasinos,Stasini,Stasia,Stasa,Stasina",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ORTHODOX EASTER – PASCHA",
+        "Alt":  "Orthodox Easter – Pascha",
+        "Day":  "19",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ZAKHAIOS",
+        "Alt":  "Zakhaios",
+        "Day":  "20",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ALEXANDRA",
+        "Alt":  "Alexis,Alexandra,Sandra,Sander",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "IRINI",
+        "Alt":  "Eirene,Eirini,Irene,Irini,Rene,Rena,Renia,Rhenia",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "IANOS",
+        "Alt":  "Janos,Janus,Ianos,Gennadi,Gennaro,Janan,Janiusz,Januarius,Janusz,Jenaro,Jenarius,Jennaro",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "JANUARY",
+        "Alt":  "Ianouarios",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "NIKOLAOS",
+        "Alt":  "Nikolaos,Nikoleta,Nikos,Nicholas,Nicolas,Nick",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "RAPHAEL",
+        "Alt":  "Rafael",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "FAISTOS",
+        "Alt":  "Faistos",
+        "Day":  "21",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THEOHARIS",
+        "Alt":  "Theoharis,Theoharoula,Haroula",
+        "Day":  "22",
+        "Month":  "4"
+    },
+    {
+        "Name":  "NATHANAEL",
+        "Alt":  "Nathanael,Nathanail",
+        "Day":  "22",
+        "Month":  "4"
+    },
+    {
+        "Name":  "NEARHOS",
+        "Alt":  "Nearxos",
+        "Day":  "22",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GEORGIA",
+        "Alt":  "Georgia,Georgette,Georgete,Gina,Tzina",
+        "Day":  "23",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GEORGE",
+        "Alt":  "Georgios,Giorgos,Yorgos,George",
+        "Day":  "23",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ACHILLES",
+        "Alt":  "Achilleas",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DOUKAS",
+        "Alt":  "Doukas",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ELIZABETH",
+        "Alt":  "Elisavet,Elisabet,Elisabeth,Lisa,Zeta,Zetta",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ZISIS",
+        "Alt":  "Zisis,Zisoula",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ZISIMOS",
+        "Alt":  "Zisimos",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ZOE",
+        "Alt":  "Zoe,Zoi,Zois",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THAVMASTOS",
+        "Alt":  "Thavmastos,Thavmasti,Tammy",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "KRINI",
+        "Alt":  "Krini,Krinio",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PANAGIOTIS",
+        "Alt":  "Panayotis,Panagiotis,Panos,Panousos,Panagis,Panagos,Giotis,Yiotis,Panikos,Takis,Panagiota,Panayota,Yiota,Giota,Panagioula,Panagoula,Pani,Tota,Toula,Pegie,Pegy",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "PIGI",
+        "Alt":  "Pege,Pigi",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "POLYZOIS",
+        "Alt":  "Polizois,Polyzois,Polyzoes,Polizoes",
+        "Day":  "24",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MARKOS",
+        "Alt":  "Markos,Mark,Marcos",
+        "Day":  "25",
+        "Month":  "4"
+    },
+    {
+        "Name":  "NIKI",
+        "Alt":  "Neekee,Nikee",
+        "Day":  "25",
+        "Month":  "4"
+    },
+    {
+        "Name":  "GLAFYRA",
+        "Alt":  "Glafyra",
+        "Day":  "26",
+        "Month":  "4"
+    },
+    {
+        "Name":  "THOMAS",
+        "Alt":  "Thomas,Tom",
+        "Day":  "26",
+        "Month":  "4"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "27",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MAGNOS",
+        "Alt":  "Magnos",
+        "Day":  "28",
+        "Month":  "4"
+    },
+    {
+        "Name":  "JASON",
+        "Alt":  "Iason,Jason,Iasonas",
+        "Day":  "29",
+        "Month":  "4"
+    },
+    {
+        "Name":  "KERKYRA",
+        "Alt":  "Kerkyra,Kerkira",
+        "Day":  "29",
+        "Month":  "4"
+    },
+    {
+        "Name":  "SOSIPATROS",
+        "Alt":  "Sosipatros,Sopatros,Patra",
+        "Day":  "29",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ARGYRO",
+        "Alt":  "Argyro",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ASIMAKIS",
+        "Alt":  "Asimakis",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "ASIMINA",
+        "Alt":  "Asimina",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "DONATOS",
+        "Alt":  "Donatos,Donata,Donatella",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "JACOB",
+        "Alt":  "Iakovos,Giacomo,Mino,Jacob,Jacques,Jaquet,Jacqueline,Jacquiline,James,Jemmy,Janie,Jakob,Jackel,Jockel,Jacky",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "MALAMATI",
+        "Alt":  "Malamati,Mala,Malamatenia,Matina",
+        "Day":  "30",
+        "Month":  "4"
+    },
+    {
+        "Name":  "JEREMIA",
+        "Alt":  "Ieremia",
+        "Day":  "1",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ISIDORA",
+        "Alt":  "Isidora,Dora",
+        "Day":  "1",
+        "Month":  "5"
+    },
+    {
+        "Name":  "TAMARA",
+        "Alt":  "Tamara,Tammara,Tamar",
+        "Day":  "1",
+        "Month":  "5"
+    },
+    {
+        "Name":  "FILOSOFOS",
+        "Alt":  "Filosofos",
+        "Day":  "1",
+        "Month":  "5"
+    },
+    {
+        "Name":  "AVGERINOS",
+        "Alt":  "Avgerinos,Avgeris,Avgerou,Avgerini,Ava",
+        "Day":  "2",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ESPEROS",
+        "Alt":  "Esperos",
+        "Day":  "2",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MATRONA",
+        "Alt":  "Matrona of Russia - The Blind",
+        "Day":  "2",
+        "Month":  "5"
+    },
+    {
+        "Name":  "BORIS,BORYS,MPORISOS (MICHAEL)",
+        "Alt":  "Boris,Borys,Mporisos (Michael)",
+        "Day":  "2",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MYROFORA",
+        "Alt":  "Myrofora,Myrrh-Bearing Woman",
+        "Day":  "3",
+        "Month":  "5"
+    },
+    {
+        "Name":  "RODOPI",
+        "Alt":  "Rodopi,Rodopee",
+        "Day":  "3",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MELIA",
+        "Alt":  "Melia",
+        "Day":  "4",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EIRINAIOS",
+        "Alt":  "Eirinaios,Irenaeus",
+        "Day":  "5",
+        "Month":  "5"
+    },
+    {
+        "Name":  "IRINI",
+        "Alt":  "Eirene,Eirini,Irene,Irini,Rene,Rena,Renia,Rhenia",
+        "Day":  "5",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EFRAIM",
+        "Alt":  "Efraim",
+        "Day":  "5",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EFREM",
+        "Alt":  "Efrem",
+        "Day":  "5",
+        "Month":  "5"
+    },
+    {
+        "Name":  "IOV",
+        "Alt":  "Iov,Job,Iovia,Iobia,Jobia,Jovia,Iovi,Iobi",
+        "Day":  "6",
+        "Month":  "5"
+    },
+    {
+        "Name":  "SERAPHIM",
+        "Alt":  "Serafeim,Serafim,Serafina",
+        "Day":  "6",
+        "Month":  "5"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "7",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THEOLOGOS",
+        "Alt":  "Theologos",
+        "Day":  "8",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MELIOS",
+        "Alt":  "Melios,Milios,Melio,Milio",
+        "Day":  "8",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ESSAIAS",
+        "Alt":  "Hesaias,Isaias",
+        "Day":  "9",
+        "Month":  "5"
+    },
+    {
+        "Name":  "CHRISTOPHER",
+        "Alt":  "Christoforos",
+        "Day":  "9",
+        "Month":  "5"
+    },
+    {
+        "Name":  "BATHSHEBA",
+        "Alt":  "Bathsheba,Bathsheeba,Bersave,Bersebe,Verseve,Beersheba,Virsaviya,Varsavia",
+        "Day":  "10",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MOTHER\u0027S DAY",
+        "Alt":  "Mother\u0027s day",
+        "Day":  "10",
+        "Month":  "5"
+    },
+    {
+        "Name":  "SIMON",
+        "Alt":  "Simonas,Simon",
+        "Day":  "10",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ARGYRIS",
+        "Alt":  "Argyris",
+        "Day":  "11",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ARMODIOS",
+        "Alt":  "Armodios",
+        "Day":  "11",
+        "Month":  "5"
+    },
+    {
+        "Name":  "DIOSKOURIDIS",
+        "Alt":  "Dioskouridis,Dioskoridis,Dioskoros",
+        "Day":  "11",
+        "Month":  "5"
+    },
+    {
+        "Name":  "METHODIOS",
+        "Alt":  "Methodios",
+        "Day":  "11",
+        "Month":  "5"
+    },
+    {
+        "Name":  "OLYMPIA",
+        "Alt":  "Olimpia",
+        "Day":  "11",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EPIFANEIOS",
+        "Alt":  "Epifanios",
+        "Day":  "12",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THEODOROS",
+        "Alt":  "Theodoros of Kythera,Thodoris,Theodore,Teo,Thodora,Theodora",
+        "Day":  "12",
+        "Month":  "5"
+    },
+    {
+        "Name":  "GLYKERIA",
+        "Alt":  "Glykeria",
+        "Day":  "13",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ARISTOTELE",
+        "Alt":  "Aristotelis,Telis",
+        "Day":  "14",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THERAPON",
+        "Alt":  "Therapon",
+        "Day":  "14",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ISIDOROS",
+        "Alt":  "Isidoros",
+        "Day":  "14",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ACHILLIOS",
+        "Alt":  "Achillios",
+        "Day":  "15",
+        "Month":  "5"
+    },
+    {
+        "Name":  "KALI",
+        "Alt":  "Kalee,Kaylee",
+        "Day":  "15",
+        "Month":  "5"
+    },
+    {
+        "Name":  "PAHOMIOS",
+        "Alt":  "Pahomios,Pahoumios,Pahos",
+        "Day":  "15",
+        "Month":  "5"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "16",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ADRONIKOS",
+        "Alt":  "Andronikos,Androniki",
+        "Day":  "17",
+        "Month":  "5"
+    },
+    {
+        "Name":  "JUNIA",
+        "Alt":  "Iounia",
+        "Day":  "17",
+        "Month":  "5"
+    },
+    {
+        "Name":  "SOLON",
+        "Alt":  "Solon,Solonas,Solohon",
+        "Day":  "17",
+        "Month":  "5"
+    },
+    {
+        "Name":  "GALATEIA",
+        "Alt":  "Galateia",
+        "Day":  "18",
+        "Month":  "5"
+    },
+    {
+        "Name":  "JULIA",
+        "Alt":  "Ioulia,Julia,Jule,Julie",
+        "Day":  "18",
+        "Month":  "5"
+    },
+    {
+        "Name":  "FAEINI",
+        "Alt":  "Faeini",
+        "Day":  "18",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THEOGNOSTOS",
+        "Alt":  "Theognostos,Theognosios,Theognosia",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THEOKTISTOS",
+        "Alt":  "Theoktistos",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MAGDALINI",
+        "Alt":  "Magdalena,Magdalene,Magdalini,Markella,Magda",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MARYLENA",
+        "Alt":  "Marylena,Maryelena",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MENANDROS",
+        "Alt":  "Menandros",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MEMORY OF GREEK PONTIOS GENOCIDE",
+        "Alt":  "Memory of Greek Pontios Genocide",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "PATRICK",
+        "Alt":  "Patrikios,Patricia",
+        "Day":  "19",
+        "Month":  "5"
+    },
+    {
+        "Name":  "LEEDA",
+        "Alt":  "Lida",
+        "Day":  "20",
+        "Month":  "5"
+    },
+    {
+        "Name":  "LITO",
+        "Alt":  "Lito,Leeto,Leto",
+        "Day":  "20",
+        "Month":  "5"
+    },
+    {
+        "Name":  "LIDIA",
+        "Alt":  "Lydia,Lidia,Lidie,Lyda,Lydie",
+        "Day":  "20",
+        "Month":  "5"
+    },
+    {
+        "Name":  "HELEN",
+        "Alt":  "Elena,Elene,Ellen,Eleni,Lena,Eleanor,Eleonora,Eleonor,Nora,Marilena",
+        "Day":  "21",
+        "Month":  "5"
+    },
+    {
+        "Name":  "CONSTANTINA",
+        "Alt":  "Thina,Kostantina,Dina,Costantina",
+        "Day":  "21",
+        "Month":  "5"
+    },
+    {
+        "Name":  "CONSTANTIN",
+        "Alt":  "Konstantinos,Kostantinos,Kostas,Costas,Constantine,Costantine,Gus",
+        "Day":  "21",
+        "Month":  "5"
+    },
+    {
+        "Name":  "NANTIA",
+        "Alt":  "Nantia,Nandia,Nadia,Nadya",
+        "Day":  "21",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EMILIOS",
+        "Alt":  "Emile,Emilia,Emily,Emma",
+        "Day":  "22",
+        "Month":  "5"
+    },
+    {
+        "Name":  "KODROS",
+        "Alt":  "Kodros",
+        "Day":  "22",
+        "Month":  "5"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "23",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MARKIANI",
+        "Alt":  "Markiani",
+        "Day":  "24",
+        "Month":  "5"
+    },
+    {
+        "Name":  "PALLADIA",
+        "Alt":  "Palladia",
+        "Day":  "24",
+        "Month":  "5"
+    },
+    {
+        "Name":  "PHOTINI",
+        "Alt":  "Fotine,Fotini,Foto,Fotoula,Fay,Fofo",
+        "Day":  "24",
+        "Month":  "5"
+    },
+    {
+        "Name":  "CHRISTIAN",
+        "Alt":  "Christian",
+        "Day":  "24",
+        "Month":  "5"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "25",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ALFAIOS",
+        "Alt":  "Alfaios,Alfeos",
+        "Day":  "26",
+        "Month":  "5"
+    },
+    {
+        "Name":  "KARPOS",
+        "Alt":  "Karpos",
+        "Day":  "26",
+        "Month":  "5"
+    },
+    {
+        "Name":  "SINESIOS",
+        "Alt":  "Sinesios",
+        "Day":  "26",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ALYPIOS",
+        "Alt":  "Alypios",
+        "Day":  "27",
+        "Month":  "5"
+    },
+    {
+        "Name":  "IOANNIS",
+        "Alt":  "Ioannis Rossos",
+        "Day":  "27",
+        "Month":  "5"
+    },
+    {
+        "Name":  "DIMITRIOS",
+        "Alt":  "Demetris,Dimitris,Dimitrios,Mitros",
+        "Day":  "28",
+        "Month":  "5"
+    },
+    {
+        "Name":  "DIOSKOURIDIS",
+        "Alt":  "Dioskouridis",
+        "Day":  "28",
+        "Month":  "5"
+    },
+    {
+        "Name":  "NEFELI",
+        "Alt":  "Nefeli",
+        "Day":  "28",
+        "Month":  "5"
+    },
+    {
+        "Name":  "THEODOSIA",
+        "Alt":  "Theodosia",
+        "Day":  "29",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MEMORY OF THE DEFEAT OF KOSTANTINOUPOLIS BY THE TURKS IN 1453",
+        "Alt":  "Memory of the Defeat of Kostantinoupolis by the Turks in 1453",
+        "Day":  "29",
+        "Month":  "5"
+    },
+    {
+        "Name":  "OLIVIANOS",
+        "Alt":  "Olivianos,Olvianos,Olivia",
+        "Day":  "29",
+        "Month":  "5"
+    },
+    {
+        "Name":  "IPOMONI",
+        "Alt":  "Ypomoni",
+        "Day":  "29",
+        "Month":  "5"
+    },
+    {
+        "Name":  "EMMELEIA",
+        "Alt":  "Emeleia,Amy",
+        "Day":  "30",
+        "Month":  "5"
+    },
+    {
+        "Name":  "ERMEIAS",
+        "Alt":  "Ermeias,Ermeia",
+        "Day":  "31",
+        "Month":  "5"
+    },
+    {
+        "Name":  "MAGOS",
+        "Alt":  "Magos,5a",
+        "Day":  "31",
+        "Month":  "5"
+    },
+    {
+        "Name":  "GERAKINA",
+        "Alt":  "Gerakina",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "EVELPISTOS",
+        "Alt":  "Evelpistos",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "THESPESIOS",
+        "Alt":  "Thespesios,Thespesia",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "IERAX",
+        "Alt":  "Ierax",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "JUSTINE",
+        "Alt":  "Justine,Ioustinos",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PYRROS",
+        "Alt":  "Pyros",
+        "Day":  "1",
+        "Month":  "6"
+    },
+    {
+        "Name":  "MARINOS",
+        "Alt":  "Marinos",
+        "Day":  "2",
+        "Month":  "6"
+    },
+    {
+        "Name":  "NIKIFOROS",
+        "Alt":  "Nikiforos",
+        "Day":  "2",
+        "Month":  "6"
+    },
+    {
+        "Name":  "IERIA",
+        "Alt":  "Ieria",
+        "Day":  "3",
+        "Month":  "6"
+    },
+    {
+        "Name":  "YPATIA",
+        "Alt":  "Ypatia",
+        "Day":  "3",
+        "Month":  "6"
+    },
+    {
+        "Name":  "MARTHA",
+        "Alt":  "Martha",
+        "Day":  "4",
+        "Month":  "6"
+    },
+    {
+        "Name":  "APOLLON",
+        "Alt":  "Apollon",
+        "Day":  "5",
+        "Month":  "6"
+    },
+    {
+        "Name":  "DOROTHEOS",
+        "Alt":  "Dorotheos,Dorothea,Dorothy",
+        "Day":  "5",
+        "Month":  "6"
+    },
+    {
+        "Name":  "NIKANDROS",
+        "Alt":  "Nikandros",
+        "Day":  "5",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PLOUTARHOS",
+        "Alt":  "Ploutarhos,Ploutos,Plouto",
+        "Day":  "5",
+        "Month":  "6"
+    },
+    {
+        "Name":  "SELENE",
+        "Alt":  "Selene,Seline",
+        "Day":  "5",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ILARION",
+        "Alt":  "Ilarion,Ilarionas,Ilaria,Ilariada,Lariada",
+        "Day":  "6",
+        "Month":  "6"
+    },
+    {
+        "Name":  "SATURDAY OF SOULS",
+        "Alt":  "Saturday of Souls",
+        "Day":  "6",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ZINAIS",
+        "Alt":  "Zinais",
+        "Day":  "7",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PANAGIS",
+        "Alt":  "Panayis,Panagos",
+        "Day":  "7",
+        "Month":  "6"
+    },
+    {
+        "Name":  "SEVASTIANI",
+        "Alt":  "Sebastiani,Sebastian,Sevasti,Sevi",
+        "Day":  "7",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PENTECOST",
+        "Alt":  "Pentecost",
+        "Day":  "7",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KALLIOPI",
+        "Alt":  "Kalliope,Kaliopi,Popi",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KORENNA",
+        "Alt":  "Korenna",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KORI",
+        "Alt":  "Koree",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KORINA",
+        "Alt":  "Korina",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KORINOS",
+        "Alt":  "Korinos",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "NAFKRATIS",
+        "Alt":  "Nafkratis",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "DAY OF THE HOLY GHOST",
+        "Alt":  "Day of the Holy Ghost",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "TRIADA",
+        "Alt":  "Triad",
+        "Day":  "8",
+        "Month":  "6"
+    },
+    {
+        "Name":  "RODANTHI",
+        "Alt":  "Rodanthi,Rozanthi",
+        "Day":  "9",
+        "Month":  "6"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "10",
+        "Month":  "6"
+    },
+    {
+        "Name":  "BARTHOLOMEOS",
+        "Alt":  "Bartholomeus",
+        "Day":  "11",
+        "Month":  "6"
+    },
+    {
+        "Name":  "VARNAVAS",
+        "Alt":  "Varnavas",
+        "Day":  "11",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ZAFEIRIOS",
+        "Alt":  "Zafeirios,Zafeiro,Zafeiria",
+        "Day":  "11",
+        "Month":  "6"
+    },
+    {
+        "Name":  "LUKE",
+        "Alt":  "Loukas,Loska,Loskas,Lucas,Luke",
+        "Day":  "11",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ONOUFRIOS",
+        "Alt":  "Onoufrios",
+        "Day":  "12",
+        "Month":  "6"
+    },
+    {
+        "Name":  "TRIFILIOS",
+        "Alt":  "Trifillios,Trifilios",
+        "Day":  "13",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ELISSAIOS",
+        "Alt":  "Elisaios,Elisso,Eliso",
+        "Day":  "14",
+        "Month":  "6"
+    },
+    {
+        "Name":  "NEFON",
+        "Alt":  "Nefon",
+        "Day":  "14",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ALL",
+        "Alt":  "All Saints,Agioi Pantes,Agios Pantas",
+        "Day":  "14",
+        "Month":  "6"
+    },
+    {
+        "Name":  "AVGOUSTA",
+        "Alt":  "Avgousta",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "AFGOUSTINOS",
+        "Alt":  "Afgoustinos,Afgoustos,Augoustos,Avgoustis,Avgoustinos,Avgoustos",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "IERONYMOS",
+        "Alt":  "Ieronymos,Jeronymo",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "LIVYI",
+        "Alt":  "Livyi,Lybia",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "MONICA",
+        "Alt":  "Monika,Monique,Mona",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ORTANSIA",
+        "Alt":  "Ortansia,Hortisia",
+        "Day":  "15",
+        "Month":  "6"
+    },
+    {
+        "Name":  "TICHON",
+        "Alt":  "Tychon",
+        "Day":  "16",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ISMAIL",
+        "Alt":  "Ismail",
+        "Day":  "17",
+        "Month":  "6"
+    },
+    {
+        "Name":  "FELIX",
+        "Alt":  "Felix",
+        "Day":  "17",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ERASMOS",
+        "Alt":  "Erasmos",
+        "Day":  "18",
+        "Month":  "6"
+    },
+    {
+        "Name":  "LEONTIOS",
+        "Alt":  "Leontios",
+        "Day":  "18",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ZOSIMOS",
+        "Alt":  "Zosimos,Zosimus",
+        "Day":  "19",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PAISIOS",
+        "Alt":  "Paisios",
+        "Day":  "19",
+        "Month":  "6"
+    },
+    {
+        "Name":  "KALLISTOS",
+        "Alt":  "Kallistos,Kalistos",
+        "Day":  "20",
+        "Month":  "6"
+    },
+    {
+        "Name":  "METHODIOS",
+        "Alt":  "Methodius",
+        "Day":  "20",
+        "Month":  "6"
+    },
+    {
+        "Name":  "AFRODISIOS",
+        "Alt":  "Afrodisios",
+        "Day":  "21",
+        "Month":  "6"
+    },
+    {
+        "Name":  "FATHER\u0027S DAY",
+        "Alt":  "Father\u0027s day",
+        "Day":  "21",
+        "Month":  "6"
+    },
+    {
+        "Name":  "EFSEVIOS",
+        "Alt":  "Evsevios,Evsevia",
+        "Day":  "22",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ZINAS",
+        "Alt":  "Zinas",
+        "Day":  "22",
+        "Month":  "6"
+    },
+    {
+        "Name":  "AGRIPPINA",
+        "Alt":  "Agrippina",
+        "Day":  "23",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ARISTOKLIS",
+        "Alt":  "Aristoklis",
+        "Day":  "23",
+        "Month":  "6"
+    },
+    {
+        "Name":  "LOULOU",
+        "Alt":  "Loulou",
+        "Day":  "23",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ST JHON\u0027S BIRTHDAY",
+        "Alt":  "St Jhon\u0027s Birthday",
+        "Day":  "24",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PANAGIOTIS",
+        "Alt":  "Panayotis,Panagiotis,Panos,Panousos,Panagis,Panagos,Giotis,Yiotis,Panikos,Takis,Panagiota,Panayota,Yiota,Giota,Panagioula,Panagoula,Pani,Tota,Toula,Pegie,Pegy",
+        "Day":  "24",
+        "Month":  "6"
+    },
+    {
+        "Name":  "EROTAS",
+        "Alt":  "Erotas",
+        "Day":  "25",
+        "Month":  "6"
+    },
+    {
+        "Name":  "FEVRONIA",
+        "Alt":  "Phevronia",
+        "Day":  "25",
+        "Month":  "6"
+    },
+    {
+        "Name":  "DAVID",
+        "Alt":  "David",
+        "Day":  "26",
+        "Month":  "6"
+    },
+    {
+        "Name":  "MAKARIOS",
+        "Alt":  "Makarios",
+        "Day":  "26",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PIERRE",
+        "Alt":  "Pierion,Pierro,Pierre,Pieris",
+        "Day":  "27",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ANARGYROS",
+        "Alt":  "Anargyros,Anargyri",
+        "Day":  "28",
+        "Month":  "6"
+    },
+    {
+        "Name":  "GERMANOS",
+        "Alt":  "Germanos",
+        "Day":  "28",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PAVLOS",
+        "Alt":  "Pavlos,Paul,Pavlina",
+        "Day":  "29",
+        "Month":  "6"
+    },
+    {
+        "Name":  "PETER",
+        "Alt":  "Petros,Peter,Paul,Petroula,Petrina,Petras,Petrakis,Petrinos,Petria,Petra",
+        "Day":  "29",
+        "Month":  "6"
+    },
+    {
+        "Name":  "APOSTOLOS",
+        "Alt":  "Apostolis,Apostolos,Tolis,Lea,Lia,Apostolina,Polina",
+        "Day":  "30",
+        "Month":  "6"
+    },
+    {
+        "Name":  "MELITON",
+        "Alt":  "Meliton",
+        "Day":  "30",
+        "Month":  "6"
+    },
+    {
+        "Name":  "ANARGYROS",
+        "Alt":  "Anargyros,Anargyri",
+        "Day":  "1",
+        "Month":  "7"
+    },
+    {
+        "Name":  "DAMIANOS",
+        "Alt":  "Damianos,Damian",
+        "Day":  "1",
+        "Month":  "7"
+    },
+    {
+        "Name":  "COSMAS",
+        "Alt":  "Kosmas",
+        "Day":  "1",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MAVRIKIOS",
+        "Alt":  "Mavrikios,Maurice",
+        "Day":  "1",
+        "Month":  "7"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "2",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ANATOLIOS",
+        "Alt":  "ANATOLIOS",
+        "Day":  "3",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ZOUMBOULIA",
+        "Alt":  "Zoumboulia",
+        "Day":  "3",
+        "Month":  "7"
+    },
+    {
+        "Name":  "YAKINTHOS",
+        "Alt":  "Yakinthos,Jacinthus,Hyacinth",
+        "Day":  "3",
+        "Month":  "7"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "4",
+        "Month":  "7"
+    },
+    {
+        "Name":  "LAMPADOS",
+        "Alt":  "Lampados",
+        "Day":  "5",
+        "Month":  "7"
+    },
+    {
+        "Name":  "LYKIOS",
+        "Alt":  "Lykios",
+        "Day":  "6",
+        "Month":  "7"
+    },
+    {
+        "Name":  "SATYROS",
+        "Alt":  "Satyros",
+        "Day":  "6",
+        "Month":  "7"
+    },
+    {
+        "Name":  "KYRIAKI",
+        "Alt":  "Kyriake,Kyriakos,Kyriaki,Kiriaki,Kiki,Kitsa,Korina,Kitsos,Sundy,Domenica,Dominica,Cyriaca,Kyriaca,Ria,Iria,Ia",
+        "Day":  "7",
+        "Month":  "7"
+    },
+    {
+        "Name":  "THEOFILOS",
+        "Alt":  "Theofilos,Theofilitsa,Filio",
+        "Day":  "8",
+        "Month":  "7"
+    },
+    {
+        "Name":  "PROKOPIS",
+        "Alt":  "Prokopios",
+        "Day":  "8",
+        "Month":  "7"
+    },
+    {
+        "Name":  "PAGRATIOS",
+        "Alt":  "Pagratios,Pagratia",
+        "Day":  "9",
+        "Month":  "7"
+    },
+    {
+        "Name":  "AMALIA",
+        "Alt":  "Amalia,Amelie",
+        "Day":  "10",
+        "Month":  "7"
+    },
+    {
+        "Name":  "EFIMIA",
+        "Alt":  "Efemia,Efimia",
+        "Day":  "11",
+        "Month":  "7"
+    },
+    {
+        "Name":  "OLGA",
+        "Alt":  "Olga",
+        "Day":  "11",
+        "Month":  "7"
+    },
+    {
+        "Name":  "VERENIC",
+        "Alt":  "Verenike,Vereniki,Verenica",
+        "Day":  "12",
+        "Month":  "7"
+    },
+    {
+        "Name":  "VERONIC",
+        "Alt":  "Veronike,Veroniki,Veronica,Berenice",
+        "Day":  "12",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ILIOFOTOS",
+        "Alt":  "Heliofotos",
+        "Day":  "13",
+        "Month":  "7"
+    },
+    {
+        "Name":  "SARAH",
+        "Alt":  "Sarah",
+        "Day":  "13",
+        "Month":  "7"
+    },
+    {
+        "Name":  "AKYLAS",
+        "Alt":  "Akylas",
+        "Day":  "14",
+        "Month":  "7"
+    },
+    {
+        "Name":  "NIKODIMOS",
+        "Alt":  "Nikodemos,Nikodimos",
+        "Day":  "14",
+        "Month":  "7"
+    },
+    {
+        "Name":  "VLADIMIR",
+        "Alt":  "Vladimiros",
+        "Day":  "15",
+        "Month":  "7"
+    },
+    {
+        "Name":  "JULITTA",
+        "Alt":  "Ioulitta",
+        "Day":  "15",
+        "Month":  "7"
+    },
+    {
+        "Name":  "KIRIKOS",
+        "Alt":  "Kerykos,Kirykos",
+        "Day":  "15",
+        "Month":  "7"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "16",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ALEXANDRA",
+        "Alt":  "Alexis,Alexandra,Sandra,Sander",
+        "Day":  "17",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ALIKI",
+        "Alt":  "Alix,Aliki,Alice,Alisia,Alicia,Alysia,Alika,Adelaide",
+        "Day":  "17",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MARINA",
+        "Alt":  "Marena,Marinos",
+        "Day":  "17",
+        "Month":  "7"
+    },
+    {
+        "Name":  "EMILIANOS",
+        "Alt":  "Emilianos",
+        "Day":  "18",
+        "Month":  "7"
+    },
+    {
+        "Name":  "GARYFALLIA",
+        "Alt":  "Garyfallia",
+        "Day":  "19",
+        "Month":  "7"
+    },
+    {
+        "Name":  "DIAS",
+        "Alt":  "Dias,Zeus",
+        "Day":  "19",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MAKRINA",
+        "Alt":  "Makrena",
+        "Day":  "19",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ELIAS",
+        "Alt":  "Elias,Ilias,Eliana,Liana",
+        "Day":  "20",
+        "Month":  "7"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "21",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MAGDALINI",
+        "Alt":  "Magdalena,Magdalene,Magdalini,Markella,Magda",
+        "Day":  "22",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MARYLENA",
+        "Alt":  "Marylena,Maryelena",
+        "Day":  "22",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MARKELLA",
+        "Alt":  "Markela",
+        "Day":  "22",
+        "Month":  "7"
+    },
+    {
+        "Name":  "MENELAOS",
+        "Alt":  "Menelaos,Meneleus,Menelaus,Menele,Mauvier",
+        "Day":  "22",
+        "Month":  "7"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "23",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ATHINAGORAS",
+        "Alt":  "Athinagoras",
+        "Day":  "24",
+        "Month":  "7"
+    },
+    {
+        "Name":  "BORIS,BORYS,MPORISOS (ROMANUS)",
+        "Alt":  "Boris,Borys,Mporisos (Romanus)",
+        "Day":  "27",
+        "Month":  "7"
+    },
+    {
+        "Name":  "CHRISTINA",
+        "Alt":  "Christina,Christy,Chris,Christyne",
+        "Day":  "24",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ANAIS",
+        "Alt":  "Anais",
+        "Day":  "25",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ANN",
+        "Alt":  "Anna,Annita,Anneta,Hanna",
+        "Day":  "25",
+        "Month":  "7"
+    },
+    {
+        "Name":  "EFPRAKSIA",
+        "Alt":  "Efpraxia",
+        "Day":  "25",
+        "Month":  "7"
+    },
+    {
+        "Name":  "OLYMPIAS",
+        "Alt":  "Olimpias,Olimpiada",
+        "Day":  "25",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ERMOLAOS",
+        "Alt":  "Hermolaos,Hermolia,Ermolia,Lia",
+        "Day":  "26",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ERSI",
+        "Alt":  "Erse,Ersi",
+        "Day":  "26",
+        "Month":  "7"
+    },
+    {
+        "Name":  "PARASKEVI",
+        "Alt":  "Paraskevee,Paraskevi,Evi,Evita,Vivian,Vivi,Vetti,Veti",
+        "Day":  "26",
+        "Month":  "7"
+    },
+    {
+        "Name":  "OREOZILI",
+        "Alt":  "Oreozili,Oreozeeli",
+        "Day":  "26",
+        "Month":  "7"
+    },
+    {
+        "Name":  "PANTELIS",
+        "Alt":  "Panteleimonas,Pantelis",
+        "Day":  "27",
+        "Month":  "7"
+    },
+    {
+        "Name":  "AKAKIOS",
+        "Alt":  "Akakios,Kahi,Kaki",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "AFXENTIOS",
+        "Alt":  "Afxentios",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "DROSOS",
+        "Alt":  "Drosos",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "DROSOULA",
+        "Alt":  "Drosoula,Drosis,Drosida",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "IRINI",
+        "Alt":  "Eirene,Eirini,Irene,Irini",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "TIMON",
+        "Alt":  "Timon,Timos",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "HRYSOVALANTOU",
+        "Alt":  "Chrisovalantis,Chrysovalantou",
+        "Day":  "28",
+        "Month":  "7"
+    },
+    {
+        "Name":  "THEODOTI",
+        "Alt":  "Theodoti",
+        "Day":  "29",
+        "Month":  "7"
+    },
+    {
+        "Name":  "KALLINIKOS",
+        "Alt":  "Kalinikos",
+        "Day":  "29",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ADRONIKOS",
+        "Alt":  "Andronikos,Androniki",
+        "Day":  "30",
+        "Month":  "7"
+    },
+    {
+        "Name":  "SILOUANOS",
+        "Alt":  "Silouanos",
+        "Day":  "30",
+        "Month":  "7"
+    },
+    {
+        "Name":  "EVDOKIMOS",
+        "Alt":  "Evdokimos",
+        "Day":  "31",
+        "Month":  "7"
+    },
+    {
+        "Name":  "JOSEF",
+        "Alt":  "Iosif,Sifis",
+        "Day":  "31",
+        "Month":  "7"
+    },
+    {
+        "Name":  "FREIDERIKI",
+        "Alt":  "Freideriki,Frederiki,Frideriki",
+        "Day":  "31",
+        "Month":  "7"
+    },
+    {
+        "Name":  "FREIDERIKOS",
+        "Alt":  "Freiderikos,Frederic,Frederich,Friderikos",
+        "Day":  "31",
+        "Month":  "7"
+    },
+    {
+        "Name":  "ELESA",
+        "Alt":  "Elesa,Elessa",
+        "Day":  "1",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EFKLEOS",
+        "Alt":  "Efkleos",
+        "Day":  "1",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MARKELOS",
+        "Alt":  "Markelos",
+        "Day":  "1",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SOLOMONI",
+        "Alt":  "Solomoni",
+        "Day":  "1",
+        "Month":  "8"
+    },
+    {
+        "Name":  "JUSTINIANOS",
+        "Alt":  "Justinianos",
+        "Day":  "2",
+        "Month":  "8"
+    },
+    {
+        "Name":  "OLIMPIOS",
+        "Alt":  "Olimpios,Olympios",
+        "Day":  "3",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SALOMI",
+        "Alt":  "Salomi",
+        "Day":  "3",
+        "Month":  "8"
+    },
+    {
+        "Name":  "VIOLETA",
+        "Alt":  "Violeta,Violet",
+        "Day":  "4",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EKSAKOUSTODIANOS",
+        "Alt":  "Exakoustodianos,Xakoustos,Ksakoustos,Xakousti,Ksakousti",
+        "Day":  "4",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MAXIMILIAN",
+        "Alt":  "Maximilian",
+        "Day":  "4",
+        "Month":  "8"
+    },
+    {
+        "Name":  "NONA",
+        "Alt":  "Nonna,Nona",
+        "Day":  "5",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EVMORFIA",
+        "Alt":  "Emmy",
+        "Day":  "6",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MORFOULA",
+        "Alt":  "Morfoula",
+        "Day":  "6",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SOTIRIS",
+        "Alt":  "Sotiria,Sotiris",
+        "Day":  "6",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ASTERIOS",
+        "Alt":  "Asterios,Asteris",
+        "Day":  "7",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ASTERO",
+        "Alt":  "Astero",
+        "Day":  "7",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ASTRINI",
+        "Alt":  "Astrini,Astrinos,Asterini,Asterinos",
+        "Day":  "7",
+        "Month":  "8"
+    },
+    {
+        "Name":  "NIKANOR",
+        "Alt":  "Nikanor,Nikanoras",
+        "Day":  "7",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MYRON",
+        "Alt":  "Myron,Miron",
+        "Day":  "8",
+        "Month":  "8"
+    },
+    {
+        "Name":  "TRIANTAFILIA",
+        "Alt":  "Triantafyllia,Rosa,Roza,Rose,Filia,Fili,Filio",
+        "Day":  "8",
+        "Month":  "8"
+    },
+    {
+        "Name":  "TRIANTAFILOS",
+        "Alt":  "Triantafyllos",
+        "Day":  "8",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "9",
+        "Month":  "8"
+    },
+    {
+        "Name":  "IRO",
+        "Alt":  "Iro,Hero",
+        "Day":  "10",
+        "Month":  "8"
+    },
+    {
+        "Name":  "IRON",
+        "Alt":  "Iron,Heron",
+        "Day":  "10",
+        "Month":  "8"
+    },
+    {
+        "Name":  "IPPOLYTOS",
+        "Alt":  "Ippolytos",
+        "Day":  "10",
+        "Month":  "8"
+    },
+    {
+        "Name":  "LAVRENTIOS",
+        "Alt":  "Laurentios,Laurens,Laurence",
+        "Day":  "10",
+        "Month":  "8"
+    },
+    {
+        "Name":  "LAURA",
+        "Alt":  "Laura,Lora,Laurentia,Laurentina,Lauraine,Lawraine,Lauren",
+        "Day":  "10",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EFPLOUS",
+        "Alt":  "Efplous",
+        "Day":  "11",
+        "Month":  "8"
+    },
+    {
+        "Name":  "PHOTIS",
+        "Alt":  "Fotis,Fotios",
+        "Day":  "12",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "13",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "14",
+        "Month":  "8"
+    },
+    {
+        "Name":  "GESTHIMANI",
+        "Alt":  "Gesthimani,Iesthimani,Gethsimani",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "DESPOINA",
+        "Alt":  "Despoina,Deppy,Pipina,Despo,Pepi,Zepo",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ELONA",
+        "Alt":  "Elona",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "HELIOSTALAKTI",
+        "Alt":  "Heliostalakti",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "THEOTOKIS",
+        "Alt":  "Theotokia,Theotokea",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "KATHOLIKI",
+        "Alt":  "Katholiki,Catholic",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "KRISTALO",
+        "Alt":  "Kristalo,Kristalia,Crystal,Krysta,Krista",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MARIETA",
+        "Alt":  "Marietta,Margeta,Margetina",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MARY",
+        "Alt":  "Maria,Mary,Maro,Marios,Mario,Mariori,Marika,Maroula,Maritsa,Margiori,Marigoula,Manio,Marietta,Marousa,Marsia,Marcy",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MARINIKI",
+        "Alt":  "Mariniki",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MIREILLE",
+        "Alt":  "Mireille,Mirella,Myrella",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "PANAGIOTIS",
+        "Alt":  "Panayotis,Panagiotis,Panos,Panousos,Panagis,Panagos,Giotis,Yiotis,Panikos,Takis,Panagiota,Panayota,Yiota,Giota,Panagioula,Panagoula,Pani,Tota,Toula,Pegie,Pegy",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "PRESVEIA",
+        "Alt":  "Presvia",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SYMELA",
+        "Alt":  "Simela,Symela,Soymela,Soumela",
+        "Day":  "15",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ALKIVIADIS",
+        "Alt":  "Alkis",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "APOSTOLOS",
+        "Alt":  "Apostolis,Apostolos,Tolis,Lea,Lia,Apostolina,Polina",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "GERASIMOS",
+        "Alt":  "Gerasimos,Yerasimos",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "DIOMIDIS",
+        "Alt":  "Diomedes,Diomidis",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SARANTIS",
+        "Alt":  "Sarantis,Sarantos",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SERAPHIM",
+        "Alt":  "Serafeim,Serafim",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "STAMATIS",
+        "Alt":  "Stamatis,Stamos",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "STAMATIA",
+        "Alt":  "Stamatia,Matoula,Mato,Stamela,Stamatina,Stamata,Matina,Mata",
+        "Day":  "16",
+        "Month":  "8"
+    },
+    {
+        "Name":  "LEFKOTHEA",
+        "Alt":  "Lefkothea",
+        "Day":  "17",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MIRON",
+        "Alt":  "Myron,Myra,Mirka",
+        "Day":  "17",
+        "Month":  "8"
+    },
+    {
+        "Name":  "STRATON",
+        "Alt":  "Straton,Stratos",
+        "Day":  "17",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ARSENIOS",
+        "Alt":  "Arsenios,Arsenis,Arsina",
+        "Day":  "18",
+        "Month":  "8"
+    },
+    {
+        "Name":  "LAVROS",
+        "Alt":  "Lavros",
+        "Day":  "18",
+        "Month":  "8"
+    },
+    {
+        "Name":  "FLOROS",
+        "Alt":  "Floros,Flora",
+        "Day":  "18",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "19",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ILIODOROS",
+        "Alt":  "Iliodoros,Iliodora,Heliodora,Eldora,Eleadora,Eleodora,Elda",
+        "Day":  "20",
+        "Month":  "8"
+    },
+    {
+        "Name":  "THEOHARIS",
+        "Alt":  "Theoharis,Theoharoula,Haroula",
+        "Day":  "20",
+        "Month":  "8"
+    },
+    {
+        "Name":  "SAMUEL",
+        "Alt":  "Samouel,Samuel,Sam",
+        "Day":  "20",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "21",
+        "Month":  "8"
+    },
+    {
+        "Name":  "AGATHONIKOS",
+        "Alt":  "Agathonikos",
+        "Day":  "22",
+        "Month":  "8"
+    },
+    {
+        "Name":  "THEOPREPIOS",
+        "Alt":  "Theoprepios",
+        "Day":  "22",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EIRINAIOS",
+        "Alt":  "Eirinaios,Irenaeus",
+        "Day":  "23",
+        "Month":  "8"
+    },
+    {
+        "Name":  "MALAMATI",
+        "Alt":  "Malamati,Mala,Malamatenia,Matina",
+        "Day":  "23",
+        "Month":  "8"
+    },
+    {
+        "Name":  "POTHEINOS",
+        "Alt":  "Potheinos,Pothinus",
+        "Day":  "23",
+        "Month":  "8"
+    },
+    {
+        "Name":  "AITOLIA",
+        "Alt":  "Etolia",
+        "Day":  "24",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EFTIHIS",
+        "Alt":  "Eftychios,Eftyhia,Eftyhis",
+        "Day":  "24",
+        "Month":  "8"
+    },
+    {
+        "Name":  "BARTHOLOMEOS",
+        "Alt":  "Bartholomeus",
+        "Day":  "25",
+        "Month":  "8"
+    },
+    {
+        "Name":  "TITOS",
+        "Alt":  "Titos",
+        "Day":  "25",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ADRIANI",
+        "Alt":  "Adriane,Adriani ",
+        "Day":  "26",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ADRIANOS",
+        "Alt":  "Adrianos,Adrian",
+        "Day":  "26",
+        "Month":  "8"
+    },
+    {
+        "Name":  "NATALIA",
+        "Alt":  "Nathalia,Natalia",
+        "Day":  "26",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ARCADIA",
+        "Alt":  "Arcadia,Arkadia",
+        "Day":  "27",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ARCADIOS",
+        "Alt":  "Arcadios,Arkadios",
+        "Day":  "27",
+        "Month":  "8"
+    },
+    {
+        "Name":  "LIBERIOS",
+        "Alt":  "Liberios,Liveris,Lyveris,Liverios,Liberis,Liberius",
+        "Day":  "27",
+        "Month":  "8"
+    },
+    {
+        "Name":  "OSIOS",
+        "Alt":  "Osios,Osia",
+        "Day":  "27",
+        "Month":  "8"
+    },
+    {
+        "Name":  "FANOURIOS",
+        "Alt":  "Phanourios",
+        "Day":  "27",
+        "Month":  "8"
+    },
+    {
+        "Name":  "DAMON",
+        "Alt":  "Damon,Damonas",
+        "Day":  "28",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ARKADIOS",
+        "Alt":  "Arkadios",
+        "Day":  "29",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ALEXANDER",
+        "Alt":  "Alexis,Alex,Alexander,Alexandros,Alekos",
+        "Day":  "30",
+        "Month":  "8"
+    },
+    {
+        "Name":  "EVLALIOS",
+        "Alt":  "Evlalios,Evlalia,Eulalios",
+        "Day":  "30",
+        "Month":  "8"
+    },
+    {
+        "Name":  "FILAKAS",
+        "Alt":  "Filakas,Fylakas",
+        "Day":  "30",
+        "Month":  "8"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "31",
+        "Month":  "8"
+    },
+    {
+        "Name":  "ADAMANTIOS",
+        "Alt":  "Adamantios,Adamantia,Amanda",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ATHINA",
+        "Alt":  "Athena,Athina",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "AKRIVI",
+        "Alt":  "Akrivee",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ANTIGONI",
+        "Alt":  "Antigone,Antigoni",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ASPASIA",
+        "Alt":  "Aspasia",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "AFRODITE",
+        "Alt":  "Afrodite,Fregia",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "DIAMANTO",
+        "Alt":  "Diamando,Adamandia,Ada",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "DIONI",
+        "Alt":  "Dioni",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "DODONI",
+        "Alt":  "Dodone",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ELPINIKI",
+        "Alt":  "Helpiniki",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ERASMIA",
+        "Alt":  "Erasmea",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ERATO",
+        "Alt":  "Erato",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EFTERPI",
+        "Alt":  "Evterpi",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THALIA",
+        "Alt":  "Thalia",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEANO",
+        "Alt":  "Theano",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEONIMPHI",
+        "Alt":  "Theonymphi",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "JOSHUA",
+        "Alt":  "Joshua,Jesus of Navi",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ISMENE",
+        "Alt":  "Jasmin,Yasmin,Jasmeen,Yasmeen,Ismini",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KALLIROI",
+        "Alt":  "Kaliroi",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KALLISTI",
+        "Alt":  "Kalisti",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KALLISTO",
+        "Alt":  "Kallisto",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "CLEO",
+        "Alt":  "Clio",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KLEONIKI",
+        "Alt":  "Kleonikos",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "CLEOPATRA",
+        "Alt":  "Cleopatra,Kleopatra,Patra,Patroula,Cleo",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "CORALIA",
+        "Alt":  "Koralia,Koralou",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MANDO",
+        "Alt":  "Mando,Mandi,Manto",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MARGARET",
+        "Alt":  "Margarita",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MARIANTHI",
+        "Alt":  "Marianthe",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MELETIOS",
+        "Alt":  "Meletios,Meletis",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MELPOMENI",
+        "Alt":  "Melpmene",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MOSHO",
+        "Alt":  "Moshoula",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "OURANIA",
+        "Alt":  "Ourania,Urania,Rania",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PANDORA",
+        "Alt":  "Pandora",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PENELOPE",
+        "Alt":  "Pinelopi,Bilio",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POLIMNIA",
+        "Alt":  "Polimnia",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POLINIKI",
+        "Alt":  "Polynike,Polyniki,Polyna,Polina",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POLYTIMI",
+        "Alt":  "Polytimi,Timi",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "RALLIS",
+        "Alt":  "Rallis,Ralis",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "RALLIA",
+        "Alt":  "Rallia,Raylee",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SAPFO",
+        "Alt":  "Sapho",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SIMEON",
+        "Alt":  "Simeon",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "TERPSIHORI",
+        "Alt":  "Terpsihori",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "HAIDO",
+        "Alt":  "Haido,Haideftos",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "HARIKLIA",
+        "Alt":  "Hariklia,Haroula",
+        "Day":  "1",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MAMAS",
+        "Alt":  "Mamas",
+        "Day":  "2",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ANTHIMOS",
+        "Alt":  "Anthimos",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARISTEA",
+        "Alt":  "Aristea,Aristi,Arestia",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARISTION",
+        "Alt":  "Aristion,Aristeas,Arestis",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARHONTIA",
+        "Alt":  "Arhontia",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARHONTION",
+        "Alt":  "Arhontion",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POLYDOROS",
+        "Alt":  "Polidoros",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PHEVOS",
+        "Alt":  "Pheevos,Foibos,Foivos,Foivi,Phoebe",
+        "Day":  "3",
+        "Month":  "9"
+    },
+    {
+        "Name":  "HERMIONI",
+        "Alt":  "Ermione,Ermioni",
+        "Day":  "4",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MOSES",
+        "Alt":  "Moisis,Moses",
+        "Day":  "4",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ROSALIA",
+        "Alt":  "Rosalia",
+        "Day":  "4",
+        "Month":  "9"
+    },
+    {
+        "Name":  "OKEANIS",
+        "Alt":  "Okeanis,Oceanis",
+        "Day":  "4",
+        "Month":  "9"
+    },
+    {
+        "Name":  "OKEANOS",
+        "Alt":  "Okeanos,Oceanos",
+        "Day":  "4",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ZAHARIAS",
+        "Alt":  "Zachariah,Zechariah,Zacaria,Zacarias,Zacary,Zacharia,Zacharias,Zacharie,Zachary,Zachery,Zackerias,Zack,Zakarias,Zeke,Zaharias,Zacharoula,Zacharenia,Zaki,Zakisaharias,Zaharoula,Zaharenia,Zaki,Zakis",
+        "Day":  "5",
+        "Month":  "9"
+    },
+    {
+        "Name":  "VIVOS",
+        "Alt":  "Vivos,Vivi",
+        "Day":  "6",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EVDOXIOS",
+        "Alt":  "Evdoxios",
+        "Day":  "6",
+        "Month":  "9"
+    },
+    {
+        "Name":  "CASIANI",
+        "Alt":  "Kasiani",
+        "Day":  "7",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SOZON",
+        "Alt":  "Sozonas",
+        "Day":  "7",
+        "Month":  "9"
+    },
+    {
+        "Name":  "GENETHLIOS",
+        "Alt":  "Genethlios",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "DESPOINA",
+        "Alt":  "Despoina,Deppy,Pipina,Despo,Pepi,Zepo",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "NERATZIA",
+        "Alt":  "Neratzia",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SKIADENI",
+        "Alt":  "Skiadeni",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "Nativity of the Blessed Virgin Mary",
+        "Alt":  "",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "TSAMPIKA",
+        "Alt":  "Tsampika,Tsabika,Mika,Tsambikos",
+        "Day":  "8",
+        "Month":  "9"
+    },
+    {
+        "Name":  "JOAHIM",
+        "Alt":  "Ioakeim",
+        "Day":  "9",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KIARAN",
+        "Alt":  "Kiaran,Kieran,Kyran,Ceran,Queran,Ciaran,Kiara",
+        "Day":  "9",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ERASTI",
+        "Alt":  "Erasti",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ERASTOS",
+        "Alt":  "Erastos",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KLIMENTINI",
+        "Alt":  "Klimentini,Clementine",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KLIMIS",
+        "Alt":  "Klimis,Clement",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MINODORA",
+        "Alt":  "Minodora",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MITRODORA",
+        "Alt":  "Mitrodora",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "NYMFODORA",
+        "Alt":  "Nymfodora",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POULCHERIA",
+        "Alt":  "Poulcheria",
+        "Day":  "10",
+        "Month":  "9"
+    },
+    {
+        "Name":  "VIOLETA",
+        "Alt":  "Violeta,Violet",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EVANTHIS",
+        "Alt":  "Evanthis",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EVANTHIA",
+        "Alt":  "Evanthia,Evathia,Eve",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EFROSYNOS",
+        "Alt":  "Efrosynos",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEODORA",
+        "Alt":  "Thodora,Theodora",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEODORA",
+        "Alt":  "Thodora,Theodora",
+        "Day":  "11",
+        "Month":  "9"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "12",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARISTIDIS",
+        "Alt":  "Aristides,Aristeides,Aristeidis",
+        "Day":  "13",
+        "Month":  "9"
+    },
+    {
+        "Name":  "CORNELIUS",
+        "Alt":  "Kornelios,Kornilios,Kornelia",
+        "Day":  "13",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEOKLIS",
+        "Alt":  "Theoklis",
+        "Day":  "14",
+        "Month":  "9"
+    },
+    {
+        "Name":  "STAVROS",
+        "Alt":  "Stavros,Stavroula,Steven",
+        "Day":  "14",
+        "Month":  "9"
+    },
+    {
+        "Name":  "VISARION",
+        "Alt":  "Visarion",
+        "Day":  "15",
+        "Month":  "9"
+    },
+    {
+        "Name":  "NIKITAS",
+        "Alt":  "Nikitas,Nikita",
+        "Day":  "15",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EFIMIA",
+        "Alt":  "Efemia,Efimia",
+        "Day":  "16",
+        "Month":  "9"
+    },
+    {
+        "Name":  "LOUNTMILLA",
+        "Alt":  "Lountmilla,Loudmila",
+        "Day":  "16",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MELINA",
+        "Alt":  "Melina,Melitini,Melitina",
+        "Day":  "16",
+        "Month":  "9"
+    },
+    {
+        "Name":  "AGATHOKLIS",
+        "Alt":  "Agathoklia,Agathoklea",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "AGAPI",
+        "Alt":  "Agape,Agapi,Agapios",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ELPIDA",
+        "Alt":  "Helpida",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "OLIVIANOS",
+        "Alt":  "Olivianos,Olvianos,Olivia",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PANTOLEON",
+        "Alt":  "Pantoleon",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PILEAS",
+        "Alt":  "Pilefs",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PISTI",
+        "Alt":  "Pisti",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SONIA",
+        "Alt":  "Sonia,Sonja",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SOPHIA",
+        "Alt":  "Sofia,Sonia,Fifi,Sofianos,Sofoula,Sofoulis,Sofouli,Fouli",
+        "Day":  "17",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ARIADNI",
+        "Alt":  "Ariadne,Ariadni,Ariana",
+        "Day":  "18",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EVMENIS",
+        "Alt":  "Evmenis",
+        "Day":  "18",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KASTOR",
+        "Alt":  "Kastor",
+        "Day":  "18",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ROMYLOS",
+        "Alt":  "Romylos,Romili,Romilaia",
+        "Day":  "18",
+        "Month":  "9"
+    },
+    {
+        "Name":  "SAVATIOS",
+        "Alt":  "Savatios",
+        "Day":  "19",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EFSTATHIOS",
+        "Alt":  "Evstathios,Stathis",
+        "Day":  "20",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEOPISTI",
+        "Alt":  "Theopisti",
+        "Day":  "20",
+        "Month":  "9"
+    },
+    {
+        "Name":  "JONAS",
+        "Alt":  "Jonas,Ionas,Ion",
+        "Day":  "21",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ZOGRAFIA",
+        "Alt":  "Zografia",
+        "Day":  "22",
+        "Month":  "9"
+    },
+    {
+        "Name":  "LOIZOS",
+        "Alt":  "Loizos,Luis,Louis",
+        "Day":  "22",
+        "Month":  "9"
+    },
+    {
+        "Name":  "LOUISE",
+        "Alt":  "Louise,Louiza,Louisa,Lovisa",
+        "Day":  "22",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PHOKAS",
+        "Alt":  "Fokas",
+        "Day":  "22",
+        "Month":  "9"
+    },
+    {
+        "Name":  "IRIS",
+        "Alt":  "Iris,Irida,Irais,Iraida,Rhais",
+        "Day":  "23",
+        "Month":  "9"
+    },
+    {
+        "Name":  "XANTHIPPI",
+        "Alt":  "Xanthippe,Xanthippi",
+        "Day":  "23",
+        "Month":  "9"
+    },
+    {
+        "Name":  "XANTHIPOS",
+        "Alt":  "Xanthipos,Xanthippos",
+        "Day":  "23",
+        "Month":  "9"
+    },
+    {
+        "Name":  "POLIXENI",
+        "Alt":  "Polyxena,Polyxene,Polyxeni,Xene,Xeni",
+        "Day":  "23",
+        "Month":  "9"
+    },
+    {
+        "Name":  "RAIS",
+        "Alt":  "Rais",
+        "Day":  "23",
+        "Month":  "9"
+    },
+    {
+        "Name":  "THEKLA",
+        "Alt":  "Thekla",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KOPROS",
+        "Alt":  "Kopros,Kopris",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MIRSINI",
+        "Alt":  "Mirsini,Mersa,Mirso,Amerisouda,Amersouda,Amerssa,Amersa",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "MIRTO",
+        "Alt":  "Mirto",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PERSEFONI",
+        "Alt":  "Persephoni",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "PERSIS",
+        "Alt":  "Persis,Persi",
+        "Day":  "24",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EFROSINI",
+        "Alt":  "Efrosyne,Efrosini,Froso",
+        "Day":  "25",
+        "Month":  "9"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "26",
+        "Month":  "9"
+    },
+    {
+        "Name":  "AKYLINI",
+        "Alt":  "Akylini,Akilina",
+        "Day":  "27",
+        "Month":  "9"
+    },
+    {
+        "Name":  "EPICHARIS",
+        "Alt":  "Epicharis,Epiharis,Epikharia",
+        "Day":  "27",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ZINON",
+        "Alt":  "Zenon,Zinon",
+        "Day":  "27",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KALLISTRATOS",
+        "Alt":  "Kallistratos",
+        "Day":  "27",
+        "Month":  "9"
+    },
+    {
+        "Name":  "HARITON",
+        "Alt":  "Hariton",
+        "Day":  "28",
+        "Month":  "9"
+    },
+    {
+        "Name":  "KYRIAKOS",
+        "Alt":  "Kyriakos,Kiriakos",
+        "Day":  "29",
+        "Month":  "9"
+    },
+    {
+        "Name":  "STRATONIKOS",
+        "Alt":  "Stratonikos,Stratos,Stratis",
+        "Day":  "30",
+        "Month":  "9"
+    },
+    {
+        "Name":  "ANANIAS",
+        "Alt":  "Ananias,Hananiah,Nino",
+        "Day":  "1",
+        "Month":  "10"
+    },
+    {
+        "Name":  "THIRESIA",
+        "Alt":  "Theresea",
+        "Day":  "1",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ROMANOS",
+        "Alt":  "Romanos,Romana,Romani",
+        "Day":  "1",
+        "Month":  "10"
+    },
+    {
+        "Name":  "IOUSTA",
+        "Alt":  "Iousta,Jousta",
+        "Day":  "2",
+        "Month":  "10"
+    },
+    {
+        "Name":  "JUSTINE",
+        "Alt":  "Justine,Ioustini",
+        "Day":  "2",
+        "Month":  "10"
+    },
+    {
+        "Name":  "CYPRIANOS",
+        "Alt":  "Kiprianos",
+        "Day":  "2",
+        "Month":  "10"
+    },
+    {
+        "Name":  "DIONISIS",
+        "Alt":  "Dionysius,Dionysis,Dionisos,Dionysios,Dionysos,Nionios,Denis,Dennis,Denise,Sissy",
+        "Day":  "3",
+        "Month":  "10"
+    },
+    {
+        "Name":  "VERINA",
+        "Alt":  "Verina,Vera",
+        "Day":  "4",
+        "Month":  "10"
+    },
+    {
+        "Name":  "IEROTHEOS",
+        "Alt":  "Ierotheos",
+        "Day":  "4",
+        "Month":  "10"
+    },
+    {
+        "Name":  "KALLISTHENIS",
+        "Alt":  "Kallisthenis",
+        "Day":  "4",
+        "Month":  "10"
+    },
+    {
+        "Name":  "HARITINI",
+        "Alt":  "Haritine,Haritini,Tina,Hara",
+        "Day":  "5",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EROTIIS",
+        "Alt":  "Erotiis",
+        "Day":  "6",
+        "Month":  "10"
+    },
+    {
+        "Name":  "THOMAS",
+        "Alt":  "Thomas,Tom",
+        "Day":  "6",
+        "Month":  "10"
+    },
+    {
+        "Name":  "BAKHOS",
+        "Alt":  "Bakhos",
+        "Day":  "7",
+        "Month":  "10"
+    },
+    {
+        "Name":  "POLYCHRONIS",
+        "Alt":  "Polychronios",
+        "Day":  "7",
+        "Month":  "10"
+    },
+    {
+        "Name":  "SERGIOS",
+        "Alt":  "Sergios,Sergio",
+        "Day":  "7",
+        "Month":  "10"
+    },
+    {
+        "Name":  "PELAGIA",
+        "Alt":  "Pelagia",
+        "Day":  "8",
+        "Month":  "10"
+    },
+    {
+        "Name":  "LOT",
+        "Alt":  "Lot",
+        "Day":  "9",
+        "Month":  "10"
+    },
+    {
+        "Name":  "AMARYLLIS",
+        "Alt":  "Amaryllis,Amarylliz",
+        "Day":  "10",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EVLAMPIA",
+        "Alt":  "Evlambia",
+        "Day":  "10",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EVLAMPIOS",
+        "Alt":  "Evlambios",
+        "Day":  "10",
+        "Month":  "10"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "11",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ANDROMAHI",
+        "Alt":  "Andromahi",
+        "Day":  "12",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ANDROMAHOS",
+        "Alt":  "Andromahos",
+        "Day":  "12",
+        "Month":  "10"
+    },
+    {
+        "Name":  "VALANTIOS",
+        "Alt":  "Valantios",
+        "Day":  "12",
+        "Month":  "10"
+    },
+    {
+        "Name":  "AGATHONIKI",
+        "Alt":  "Agathoniki",
+        "Day":  "13",
+        "Month":  "10"
+    },
+    {
+        "Name":  "KARPOS",
+        "Alt":  "Karpos",
+        "Day":  "13",
+        "Month":  "10"
+    },
+    {
+        "Name":  "FLORENTIA",
+        "Alt":  "Florentia,Florence,Dia",
+        "Day":  "13",
+        "Month":  "10"
+    },
+    {
+        "Name":  "FLORENTIOS",
+        "Alt":  "Florentios",
+        "Day":  "13",
+        "Month":  "10"
+    },
+    {
+        "Name":  "CHRYSI",
+        "Alt":  "Chrysi",
+        "Day":  "13",
+        "Month":  "10"
+    },
+    {
+        "Name":  "GERVASIOS",
+        "Alt":  "Gervasios",
+        "Day":  "14",
+        "Month":  "10"
+    },
+    {
+        "Name":  "IGNATIOS",
+        "Alt":  "Ignatios",
+        "Day":  "14",
+        "Month":  "10"
+    },
+    {
+        "Name":  "NAZARIOS",
+        "Alt":  "Nazarios",
+        "Day":  "14",
+        "Month":  "10"
+    },
+    {
+        "Name":  "LOUKIANOS",
+        "Alt":  "Loukianos",
+        "Day":  "15",
+        "Month":  "10"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "16",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ANTIGONOS",
+        "Alt":  "Antigonos,Antigonus",
+        "Day":  "17",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EFPREPIOS",
+        "Alt":  "Efprepeos",
+        "Day":  "17",
+        "Month":  "10"
+    },
+    {
+        "Name":  "LUKE",
+        "Alt":  "Loukas,Loska,Loskas,Lucas,Luke",
+        "Day":  "18",
+        "Month":  "10"
+    },
+    {
+        "Name":  "MARINOS",
+        "Alt":  "Marinos",
+        "Day":  "18",
+        "Month":  "10"
+    },
+    {
+        "Name":  "CLEOPATRA",
+        "Alt":  "Cleopatra,Kleopatra,Patra,Patroula,Cleo",
+        "Day":  "19",
+        "Month":  "10"
+    },
+    {
+        "Name":  "FELIX",
+        "Alt":  "Felix",
+        "Day":  "19",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ARTEMIOS",
+        "Alt":  "Artemios,Artemis",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ARTEMIS",
+        "Alt":  "Artemis",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "GERASIMOS",
+        "Alt":  "Gerasimos,Yerasimos",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "HENOE",
+        "Alt":  "Henoe,Enoe",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "KERASIA",
+        "Alt":  "Kerasia",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "MATRONA",
+        "Alt":  "Matrona of Chios - Chiopolitissa",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "DIANA",
+        "Alt":  "Diana",
+        "Day":  "20",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EFKRATIS",
+        "Alt":  "Efkratis",
+        "Day":  "21",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ORSALIA",
+        "Alt":  "Orsalia,Orsalina,Orsaline,Orsel,Orselina,Orseline,Orsola,Orssa",
+        "Day":  "21",
+        "Month":  "10"
+    },
+    {
+        "Name":  "URSULA",
+        "Alt":  "Ursula,Ursa",
+        "Day":  "21",
+        "Month":  "10"
+    },
+    {
+        "Name":  "SOCRATES",
+        "Alt":  "Sokrates,Sokratis,Socrates",
+        "Day":  "21",
+        "Month":  "10"
+    },
+    {
+        "Name":  "CHRISTODOULOS",
+        "Alt":  "Christodoulos",
+        "Day":  "21",
+        "Month":  "10"
+    },
+    {
+        "Name":  "AVERKIOS",
+        "Alt":  "Averkios",
+        "Day":  "22",
+        "Month":  "10"
+    },
+    {
+        "Name":  "JACOB",
+        "Alt":  "Iakovos,Giacomo,Mino,Jacob,Jacques,Jaquet,Jacqueline,Jacquiline,James,Jemmy,Janie,Jakob,Jackel,Jockel,Jacky",
+        "Day":  "23",
+        "Month":  "10"
+    },
+    {
+        "Name":  "SEVASTIANI",
+        "Alt":  "Sebastiani,Sebastian,Sevasti,Sevi",
+        "Day":  "24",
+        "Month":  "10"
+    },
+    {
+        "Name":  "CHRYSANTHI",
+        "Alt":  "Crysanthi,Hrisanthi,Hrysanthi",
+        "Day":  "25",
+        "Month":  "10"
+    },
+    {
+        "Name":  "HRYSAPHIS",
+        "Alt":  "Chrysaphis,Chrisaphis",
+        "Day":  "25",
+        "Month":  "10"
+    },
+    {
+        "Name":  "GLYKON",
+        "Alt":  "Glykon,Glykos",
+        "Day":  "26",
+        "Month":  "10"
+    },
+    {
+        "Name":  "DIMITRA",
+        "Alt":  "Dimitra,Dimitria,Dimi",
+        "Day":  "26",
+        "Month":  "10"
+    },
+    {
+        "Name":  "DIMITRIOS",
+        "Alt":  "Demetris,Dimitris,Dimitrios,Jim,James,Mitros",
+        "Day":  "26",
+        "Month":  "10"
+    },
+    {
+        "Name":  "LEPTINIS",
+        "Alt":  "Leptinis",
+        "Day":  "26",
+        "Month":  "10"
+    },
+    {
+        "Name":  "LOUPPOS",
+        "Alt":  "Louppos",
+        "Day":  "27",
+        "Month":  "10"
+    },
+    {
+        "Name":  "NESTOR",
+        "Alt":  "Nestor,Nestoras",
+        "Day":  "27",
+        "Month":  "10"
+    },
+    {
+        "Name":  "VILI",
+        "Alt":  "Vili,Villi,Vilia",
+        "Day":  "28",
+        "Month":  "10"
+    },
+    {
+        "Name":  "Ohi Day",
+        "Alt":  "\u0027Ochi\u0027 Day,Anniversary of the \u0027No\u0027 - National Greek Holiday",
+        "Day":  "28",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EVNIKI",
+        "Alt":  "Efnikee",
+        "Day":  "28",
+        "Month":  "10"
+    },
+    {
+        "Name":  "EVNIKI",
+        "Alt":  "Efnikee",
+        "Day":  "28",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ABRAMIOS",
+        "Alt":  "Avramios,Abrahamios,Avramia",
+        "Day":  "29",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ANASTASIA",
+        "Alt":  "Anastasia",
+        "Day":  "29",
+        "Month":  "10"
+    },
+    {
+        "Name":  "MELINA",
+        "Alt":  "Melina,Melitini,Melitina",
+        "Day":  "29",
+        "Month":  "10"
+    },
+    {
+        "Name":  "APOLLONIA",
+        "Alt":  "Apollonia",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ASTERIOS",
+        "Alt":  "Asterios,Asteris",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ASTERO",
+        "Alt":  "Astero",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ZINOVIA",
+        "Alt":  "Zenovia,Zenovios,Zinovia,Zinovios,Zelina",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ZINOVIOS",
+        "Alt":  "Zinovios",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "KLEOPAS",
+        "Alt":  "Kleopas,Cleopas",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "KRONOS",
+        "Alt":  "Kronos,Cronos",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "MARKIANOS",
+        "Alt":  "Markianos",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "TERTIOS",
+        "Alt":  "Tertios",
+        "Day":  "30",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ABLIA",
+        "Alt":  "Amblia,Amblios",
+        "Day":  "31",
+        "Month":  "10"
+    },
+    {
+        "Name":  "APELLIS",
+        "Alt":  "Apelis",
+        "Day":  "31",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ARISTOVOULOS",
+        "Alt":  "Aristovoulos",
+        "Day":  "31",
+        "Month":  "10"
+    },
+    {
+        "Name":  "NARKISOS",
+        "Alt":  "Narkisos",
+        "Day":  "31",
+        "Month":  "10"
+    },
+    {
+        "Name":  "STRATONIKI",
+        "Alt":  "Stratoniki",
+        "Day":  "31",
+        "Month":  "10"
+    },
+    {
+        "Name":  "ANARGYROS",
+        "Alt":  "Anargyros,Anargyri",
+        "Day":  "1",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DAVID",
+        "Alt":  "David",
+        "Day":  "1",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DAMIANOS",
+        "Alt":  "Damianos,Damian",
+        "Day":  "1",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DIONYSOS",
+        "Alt":  "Dionysos",
+        "Day":  "1",
+        "Month":  "11"
+    },
+    {
+        "Name":  "COSMAS",
+        "Alt":  "Kosmas",
+        "Day":  "1",
+        "Month":  "11"
+    },
+    {
+        "Name":  "AKINDINOS",
+        "Alt":  "Akindinos,Acindinos,Acindinous,Akindinous,Acindinus,Akindinus",
+        "Day":  "2",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ANEMPODISTOS",
+        "Alt":  "Anempodistos,Anebodistos,Anempodistus",
+        "Day":  "2",
+        "Month":  "11"
+    },
+    {
+        "Name":  "AFTHONIOS",
+        "Alt":  "Afthonios,Aphthonios,Aphthonius",
+        "Day":  "2",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ELPIDIFOROS",
+        "Alt":  "Elpidiforos,Elpidoforos,Elpidiphorus,Elpidifora,Elpidofora,Elpidiphora",
+        "Day":  "2",
+        "Month":  "11"
+    },
+    {
+        "Name":  "PIGASOS",
+        "Alt":  "Pigasos,Pegasius,Pigasios,Pegasia,Pigasia",
+        "Day":  "2",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "3",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ERMAIOS",
+        "Alt":  "Ermaios",
+        "Day":  "4",
+        "Month":  "11"
+    },
+    {
+        "Name":  "IOANIKIOS",
+        "Alt":  "Ioannikios",
+        "Day":  "4",
+        "Month":  "11"
+    },
+    {
+        "Name":  "GALAKTION",
+        "Alt":  "Galaktion,Galatia",
+        "Day":  "5",
+        "Month":  "11"
+    },
+    {
+        "Name":  "EPISTIMI",
+        "Alt":  "Epistimi",
+        "Day":  "5",
+        "Month":  "11"
+    },
+    {
+        "Name":  "LINOS",
+        "Alt":  "Linos",
+        "Day":  "5",
+        "Month":  "11"
+    },
+    {
+        "Name":  "SILVANOS",
+        "Alt":  "Silvanos,Silvana",
+        "Day":  "5",
+        "Month":  "11"
+    },
+    {
+        "Name":  "LEONARDO",
+        "Alt":  "Leonardo",
+        "Day":  "6",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ATHINODOROS",
+        "Alt":  "Athinodoros,Doris",
+        "Day":  "7",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ERNEST",
+        "Alt":  "Ernest,Ernst,Earnest,Ernesto,Ernestus,Ernie,Erno,Ernestas,Ernests,Ernesti,Erno,Ernesta,Ernestine",
+        "Day":  "7",
+        "Month":  "11"
+    },
+    {
+        "Name":  "THEAGENIS",
+        "Alt":  "Theagenis",
+        "Day":  "7",
+        "Month":  "11"
+    },
+    {
+        "Name":  "THEMELIOS",
+        "Alt":  "Themelios,Themeli,Themelina",
+        "Day":  "7",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ANGELOS",
+        "Alt":  "Angela,Angelos,Angeletos,Angelina,Angeliki,Koula,Gelly",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "GABRIELA",
+        "Alt":  "Gavriela,Arabella,Aravella,Aravela",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "GABRIEL",
+        "Alt":  "Gavriel",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "EFSTRATIA",
+        "Alt":  "Efstratia,Evstratia",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MATINA",
+        "Alt":  "Matina",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "METAXIA",
+        "Alt":  "Metaxia,Taxoula,Metaxenia",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MICHELLE",
+        "Alt":  "Michelle,Michaela,Mikela,Michalia,Mihalia,Michailia,Mihailia",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MICHAEL",
+        "Alt":  "Mixalis,Michail,Michali,Michael",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "RAPHAEL",
+        "Alt":  "Rafael",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "STAMATIS",
+        "Alt":  "Stamatis,Stamos",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "STAMATIA",
+        "Alt":  "Stamatia,Matoula,Mato,Stamela,Stamatina,Stamata,Matina,Mata",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "STRATIGOS",
+        "Alt":  "Stratigos,Stratigoula",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "TAXIARHIS",
+        "Alt":  "Taxiarchis",
+        "Day":  "8",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ELLADIOS",
+        "Alt":  "Helladios",
+        "Day":  "9",
+        "Month":  "11"
+    },
+    {
+        "Name":  "THEOKTISTI",
+        "Alt":  "Theoktisti",
+        "Day":  "9",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MAVRA",
+        "Alt":  "Mavra",
+        "Day":  "9",
+        "Month":  "11"
+    },
+    {
+        "Name":  "NEKTARIOS",
+        "Alt":  "Nektarios",
+        "Day":  "9",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ARSENIOS",
+        "Alt":  "Arsenios,Arsenis,Arsina",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ARSINOE",
+        "Alt":  "Arsinoi",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "IRODION",
+        "Alt":  "Rodion,Herodion,Herodias,Herodiada",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MILON",
+        "Alt":  "Milon",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ORESTIS",
+        "Alt":  "Orestis",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "RODIOS",
+        "Alt":  "Rodion,Rodios,Rodis,Rodos,Rodia,Rodoula,Rodita,Roza,Rozalia,Rozita,Rozina,Rozana",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "SOSIPATROS",
+        "Alt":  "Sosipatros,Sopatros,Patra",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ORION",
+        "Alt":  "Orion",
+        "Day":  "10",
+        "Month":  "11"
+    },
+    {
+        "Name":  "VINCENT",
+        "Alt":  "Vikentios,Bikentios",
+        "Day":  "11",
+        "Month":  "11"
+    },
+    {
+        "Name":  "VICTOR",
+        "Alt":  "Viktoras",
+        "Day":  "11",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DRAKON",
+        "Alt":  "Drako",
+        "Day":  "11",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MINAS",
+        "Alt":  "Minas,Minais",
+        "Day":  "11",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MINOS",
+        "Alt":  "Minos,Mina",
+        "Day":  "11",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "12",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DAMASKINOS",
+        "Alt":  "Damaskinos,Damaskini",
+        "Day":  "13",
+        "Month":  "11"
+    },
+    {
+        "Name":  "HRYSOSTOMOS",
+        "Alt":  "Chrysostomos",
+        "Day":  "13",
+        "Month":  "11"
+    },
+    {
+        "Name":  "GREGORY",
+        "Alt":  "Grigoris,Grigorios,Gregory,Gregorios,Gregoris,Golis,Gregor",
+        "Day":  "14",
+        "Month":  "11"
+    },
+    {
+        "Name":  "PHILIPIA",
+        "Alt":  "Philippia,Philippa,Filio,Phylis",
+        "Day":  "14",
+        "Month":  "11"
+    },
+    {
+        "Name":  "PHILIP",
+        "Alt":  "Filippos,Philippos,Philip",
+        "Day":  "14",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "15",
+        "Month":  "11"
+    },
+    {
+        "Name":  "IFIGENIA",
+        "Alt":  "Ifigenia",
+        "Day":  "16",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MATHAIOS",
+        "Alt":  "Mathaios,Matthaios,Matthias",
+        "Day":  "16",
+        "Month":  "11"
+    },
+    {
+        "Name":  "GENADIOS",
+        "Alt":  "Genadios",
+        "Day":  "17",
+        "Month":  "11"
+    },
+    {
+        "Name":  "HILDA",
+        "Alt":  "Hilda",
+        "Day":  "17",
+        "Month":  "11"
+    },
+    {
+        "Name":  "PLATO",
+        "Alt":  "Platonas,Platon",
+        "Day":  "18",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "19",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DENAHIS",
+        "Alt":  "Denahis",
+        "Day":  "20",
+        "Month":  "11"
+    },
+    {
+        "Name":  "VIRGINIA",
+        "Alt":  "Virginia",
+        "Day":  "21",
+        "Month":  "11"
+    },
+    {
+        "Name":  "DESPOINA",
+        "Alt":  "Despoina,Deppy,Pipina,Despo,Pepi,Zepo",
+        "Day":  "21",
+        "Month":  "11"
+    },
+    {
+        "Name":  "LEMONIA",
+        "Alt":  "Lemonia",
+        "Day":  "21",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MARY",
+        "Alt":  "Maria,Mary,Maro,Marios,Mario,Mariori,Marika,Maroula,Maritsa,Margiori,Marigoula,Marietta,Marousa,Marsia,Marcy",
+        "Day":  "21",
+        "Month":  "11"
+    },
+    {
+        "Name":  "SOULTANA",
+        "Alt":  "Soultana,Souzi",
+        "Day":  "21",
+        "Month":  "11"
+    },
+    {
+        "Name":  "VALERIOS",
+        "Alt":  "Valerios,Valerianos",
+        "Day":  "22",
+        "Month":  "11"
+    },
+    {
+        "Name":  "CECILIA",
+        "Alt":  "Cecilia,Kikilia,Kekilia,Cecil",
+        "Day":  "22",
+        "Month":  "11"
+    },
+    {
+        "Name":  "PHILIMON",
+        "Alt":  "Filemon,Filimon,Filimonas",
+        "Day":  "22",
+        "Month":  "11"
+    },
+    {
+        "Name":  "AMFILOHIOS",
+        "Alt":  "Amfilohios,Amfilohia",
+        "Day":  "23",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ELENOS",
+        "Alt":  "Helenos",
+        "Day":  "23",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "24",
+        "Month":  "11"
+    },
+    {
+        "Name":  "CATHRINE",
+        "Alt":  "Aikaterine,Aikaterini,Katerina,Kaiti,Karen,Caren,Carin,Caron,Caronn,Carren,Carrin,Carron,Carryn,Caryn,Carynn,Carynne,Karan,Kari,Karin,Karna,Karon,Karren,Karrin,Karryn,Karyn,Kerran,Kerrin,Kerron,Kerrynn,Keryn,Kerynne",
+        "Day":  "25",
+        "Month":  "11"
+    },
+    {
+        "Name":  "MERCURIOS",
+        "Alt":  "Merkourios",
+        "Day":  "25",
+        "Month":  "11"
+    },
+    {
+        "Name":  "KYPARISIA",
+        "Alt":  "Kiparisia,Paresia,Sissy",
+        "Day":  "26",
+        "Month":  "11"
+    },
+    {
+        "Name":  "NIKON",
+        "Alt":  "Nikon",
+        "Day":  "26",
+        "Month":  "11"
+    },
+    {
+        "Name":  "STERGIOS",
+        "Alt":  "Stergios",
+        "Day":  "26",
+        "Month":  "11"
+    },
+    {
+        "Name":  "STILIANOS",
+        "Alt":  "Stelios,Stylianos,Stella,Stelia",
+        "Day":  "26",
+        "Month":  "11"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "27",
+        "Month":  "11"
+    },
+    {
+        "Name":  "IRINARHOS",
+        "Alt":  "Eirenarhos,Irenarhos,Irinarhos",
+        "Day":  "28",
+        "Month":  "11"
+    },
+    {
+        "Name":  "FEDRA",
+        "Alt":  "Phaedra",
+        "Day":  "29",
+        "Month":  "11"
+    },
+    {
+        "Name":  "FEDROS",
+        "Alt":  "Phaedros",
+        "Day":  "29",
+        "Month":  "11"
+    },
+    {
+        "Name":  "FILOUMENI",
+        "Alt":  "Philoumenee,Filomeni",
+        "Day":  "29",
+        "Month":  "11"
+    },
+    {
+        "Name":  "FILOUMENOS",
+        "Alt":  "Philoumenos,Filomenos",
+        "Day":  "29",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ANDREW",
+        "Alt":  "Andreas,Andrea,Andrew",
+        "Day":  "30",
+        "Month":  "11"
+    },
+    {
+        "Name":  "ARETI",
+        "Alt":  "Areti,Aretousa",
+        "Day":  "1",
+        "Month":  "12"
+    },
+    {
+        "Name":  "THEOKLITOS",
+        "Alt":  "Theoklitos",
+        "Day":  "1",
+        "Month":  "12"
+    },
+    {
+        "Name":  "JACOB",
+        "Alt":  "Jacob",
+        "Day":  "1",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NAOUM",
+        "Alt":  "Naoum,Naoumis,Naouma,Naomi",
+        "Day":  "1",
+        "Month":  "12"
+    },
+    {
+        "Name":  "PHILARETOS",
+        "Alt":  "Filaretos,Philareti,Filareti",
+        "Day":  "1",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MEROPI",
+        "Alt":  "Meropee,Myropee",
+        "Day":  "2",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SOLOMON",
+        "Alt":  "Solomon,Solomontas",
+        "Day":  "2",
+        "Month":  "12"
+    },
+    {
+        "Name":  "GLYKERIOS",
+        "Alt":  "Glykerios",
+        "Day":  "3",
+        "Month":  "12"
+    },
+    {
+        "Name":  "BARBARA",
+        "Alt":  "Barbara,Varvara",
+        "Day":  "4",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DAMASKINOS",
+        "Alt":  "Damaskinos,Damaskini,Damascus,Damascene",
+        "Day":  "4",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SERAPHIM",
+        "Alt":  "Serafeim,Serafim",
+        "Day":  "4",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DIOGENES",
+        "Alt":  "Diogenes,Diogenis",
+        "Day":  "5",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SAVVAS",
+        "Alt":  "Savvas,Savas",
+        "Day":  "5",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NIKOS",
+        "Alt":  "Nikolaos,Nikoleta,Nikos,Nicholas,Nicolas,Nick,Niks",
+        "Day":  "6",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NIKOLETA",
+        "Alt":  "Nikoletta",
+        "Day":  "6",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NIKOLINA",
+        "Alt":  "Nikolina",
+        "Day":  "6",
+        "Month":  "12"
+    },
+    {
+        "Name":  "AMVROSIOS",
+        "Alt":  "Amvrosios,Ambrosius",
+        "Day":  "7",
+        "Month":  "12"
+    },
+    {
+        "Name":  "PATAPIOS",
+        "Alt":  "Patapios",
+        "Day":  "8",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ANAIS",
+        "Alt":  "Anais",
+        "Day":  "9",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ANN",
+        "Alt":  "Anna,Annita,Anneta,Aneza",
+        "Day":  "9",
+        "Month":  "12"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "10",
+        "Month":  "12"
+    },
+    {
+        "Name":  "no widely known nameday",
+        "Alt":  "null",
+        "Day":  "11",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SPIRIDON",
+        "Alt":  "Spiros,Spyridon,Spyros,Spyridoula",
+        "Day":  "12",
+        "Month":  "12"
+    },
+    {
+        "Name":  "AARON",
+        "Alt":  "Aaron",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ABRAHAM",
+        "Alt":  "Abraham",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ADAM",
+        "Alt":  "Adam",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ARIS",
+        "Alt":  "Aris",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DAVID",
+        "Alt":  "David",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DANAE",
+        "Alt":  "Danae,Danai,Dan",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DEBORA",
+        "Alt":  "Debora,Deborah,Devora,Debbie,Debra,Debi,Debby",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ESTHIR",
+        "Alt":  "Estir,Ester",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EVE",
+        "Alt":  "Eva,Eve",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EFSTRATIOS",
+        "Alt":  "Evstratios,Stratos",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "IOUBENALIOS",
+        "Alt":  "Ioubenalios,Jouvenalious",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ISAAC",
+        "Alt":  "Isaac",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "IOV",
+        "Alt":  "Iov,Job,Iovia,Iobia,Jobia,Jovia,Iovi,Iobi",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SUNDAY",
+        "Alt":  "Sunday of the Ancestors of Jesus Christ",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "LUCY",
+        "Alt":  "Loukia",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MELHISEDEH",
+        "Alt":  "Melhisedeh,Melchizedek",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NOAH",
+        "Alt":  "Noah,Noe",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "RACHEL",
+        "Alt":  "Rachel,Raheel",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "REBBECA",
+        "Alt":  "Becca,Becka,Beckah,Becke,Beckee,Becker,Beckey,Becki,Beckie,Becky,Beki,Bekka,Bekki,Bekkie,Reba,Rebakah,Rebba,Rebbeca,Rebbecca,Rebbecka,Rebbie,Rebeca,Rebeccah,Rebeccea,Rebeccka,Rebecha,Rebecka,Rebeckah,Rebeckia",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "RUBEN",
+        "Alt":  "Roubini,Rueben,Ruby,Roubina",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SARAH",
+        "Alt":  "Sarah",
+        "Day":  "13",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ARRIANOS",
+        "Alt":  "Arianos,Arrianos,Ariani,Arrianus",
+        "Day":  "14",
+        "Month":  "12"
+    },
+    {
+        "Name":  "LEFKI",
+        "Alt":  "Lefkios,Lefki",
+        "Day":  "14",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ANTHEA",
+        "Alt":  "Anthe,Anthoula,Anthi,Anthea",
+        "Day":  "15",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ELEFTHERIOS",
+        "Alt":  "Elevtherios,Lefteris,Elefterios,Eleftheria,Ria",
+        "Day":  "15",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SYLVIA",
+        "Alt":  "Silvia",
+        "Day":  "15",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SOSSANA",
+        "Alt":  "Sosana",
+        "Day":  "15",
+        "Month":  "12"
+    },
+    {
+        "Name":  "THEOFANO",
+        "Alt":  "Theofano",
+        "Day":  "16",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MODESTOS",
+        "Alt":  "Modestos",
+        "Day":  "16",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DANIEL",
+        "Alt":  "Daniel,Danielle",
+        "Day":  "17",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DIONISIS",
+        "Alt":  "Dionysius,Dionysis,Dionisos,Dionysios,Dionysos,Nionios,Denis,Dennis,Denise,Sissy",
+        "Day":  "17",
+        "Month":  "12"
+    },
+    {
+        "Name":  "IAKHOS",
+        "Alt":  "Iakhos",
+        "Day":  "17",
+        "Month":  "12"
+    },
+    {
+        "Name":  "SEBASTIANOS",
+        "Alt":  "Sevastianos,Sebastian",
+        "Day":  "18",
+        "Month":  "12"
+    },
+    {
+        "Name":  "FLOROS",
+        "Alt":  "Floros,Flora",
+        "Day":  "18",
+        "Month":  "12"
+    },
+    {
+        "Name":  "AGLAIA",
+        "Alt":  "Aglaia",
+        "Day":  "19",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ARIS",
+        "Alt":  "Aris",
+        "Day":  "19",
+        "Month":  "12"
+    },
+    {
+        "Name":  "IGNATIOS",
+        "Alt":  "Ignatios",
+        "Day":  "20",
+        "Month":  "12"
+    },
+    {
+        "Name":  "THEMISTOKLIS",
+        "Alt":  "Themistokles,Themistoklis,Themistokleus",
+        "Day":  "21",
+        "Month":  "12"
+    },
+    {
+        "Name":  "JULIA",
+        "Alt":  "Juliana,Iouliani,Ioulia,Julia,Jule,Julie,Jouliani",
+        "Day":  "21",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ANASTASIA",
+        "Alt":  "Anastasia",
+        "Day":  "22",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ZOILOS",
+        "Alt":  "Zoilos",
+        "Day":  "22",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NATASA",
+        "Alt":  "Natasa,Tesa,Tasa,Tatia,Sia,Tasia,Tasoula",
+        "Day":  "22",
+        "Month":  "12"
+    },
+    {
+        "Name":  "NIFON",
+        "Alt":  "Nifon,Nefon",
+        "Day":  "23",
+        "Month":  "12"
+    },
+    {
+        "Name":  "AHMET",
+        "Alt":  "Ahmet,Ahmad",
+        "Day":  "24",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EVGENIA",
+        "Alt":  "Efgenia,Evyenia,Eugenia",
+        "Day":  "24",
+        "Month":  "12"
+    },
+    {
+        "Name":  "BETHLEHEM",
+        "Alt":  "Bethlehem",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "GASPAR",
+        "Alt":  "Gaspar",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EMMANOUELA",
+        "Alt":  "Emmanouela",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EMMANUEL",
+        "Alt":  "Emmanouil,Manolis,Manuella,Emma",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MELHIOR",
+        "Alt":  "Melhior",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "BALTASAR",
+        "Alt":  "Baltaser,Baltazar",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "CHRISTOS",
+        "Alt":  "Christos,Christis",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "CHRISTINA",
+        "Alt":  "Christina,Christy,Chris,Christyne,Christoli",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "HRYSA",
+        "Alt":  "Chrysa,Hrisa",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "HRISAVGI",
+        "Alt":  "Chrysavgi,Chrisavgi",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "HRISOULA",
+        "Alt":  "Chrisoula,Chrysoula,Celia",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "CHRYSTALLA",
+        "Alt":  "Chrystalla,Hrystalla,Chrystalia",
+        "Day":  "25",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EMMANOUELA",
+        "Alt":  "Emmanouela",
+        "Day":  "26",
+        "Month":  "12"
+    },
+    {
+        "Name":  "EMMANUEL",
+        "Alt":  "Emmanouil,Manolis,Manuella,Emma",
+        "Day":  "26",
+        "Month":  "12"
+    },
+    {
+        "Name":  "JOSEF",
+        "Alt":  "Iosif,Sifis",
+        "Day":  "26",
+        "Month":  "12"
+    },
+    {
+        "Name":  "CONSTANTIOS",
+        "Alt":  "Costantios,Kostantios,Costantina,Kostantina,Dia",
+        "Day":  "26",
+        "Month":  "12"
+    },
+    {
+        "Name":  "PANAGIOTIS",
+        "Alt":  "Panayotis,Panagiotis,Panos,Panousos,Panagis,Panagos,Giotis,Yiotis,Panikos,Takis,Panagiota,Panayota,Yiota,Giota,Panagioula,Panagoula,Pani,Tota,Toula,Pegie,Pegy",
+        "Day":  "26",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MAVRIKIOS",
+        "Alt":  "Mavrikios,Maurice",
+        "Day":  "27",
+        "Month":  "12"
+    },
+    {
+        "Name":  "STEPHANOS",
+        "Alt":  "Stefanos,Stephania,Steven,Stefania,Stephen,Stevan,Stevenson,Stevon,Stevyn,Steve,Stefan,Stephan,Steffen,Stefon",
+        "Day":  "27",
+        "Month":  "12"
+    },
+    {
+        "Name":  "DOMNA",
+        "Alt":  "Domna",
+        "Day":  "28",
+        "Month":  "12"
+    },
+    {
+        "Name":  "THEOFILI",
+        "Alt":  "Theofili,Theofilitsa,Filio",
+        "Day":  "28",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MYGDONIOS",
+        "Alt":  "Mygdonios",
+        "Day":  "28",
+        "Month":  "12"
+    },
+    {
+        "Name":  "BENJAMIN",
+        "Alt":  "Benjamin,Beniamin,Veniamin",
+        "Day":  "29",
+        "Month":  "12"
+    },
+    {
+        "Name":  "The infants that were slaughtered by Herod",
+        "Alt":  "null",
+        "Day":  "29",
+        "Month":  "12"
+    },
+    {
+        "Name":  "ANISIOS",
+        "Alt":  "Anisios",
+        "Day":  "30",
+        "Month":  "12"
+    },
+    {
+        "Name":  "GIDEON",
+        "Alt":  "Gideon,Gideone,Gidi,Gidon,Hedeon",
+        "Day":  "30",
+        "Month":  "12"
+    },
+    {
+        "Name":  "JOSEF",
+        "Alt":  "Iosif,Sifis",
+        "Day":  "30",
+        "Month":  "12"
+    },
+    {
+        "Name":  "FILETAIROS",
+        "Alt":  "Filetairos",
+        "Day":  "30",
+        "Month":  "12"
+    },
+    {
+        "Name":  "MELANY",
+        "Alt":  "Melania,Melany,Melanie",
+        "Day":  "31",
+        "Month":  "12"
+    }
+]
